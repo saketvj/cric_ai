@@ -1,0 +1,2227 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-04-08'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Delhi
+  competition: IPL
+  dates:
+  - '2026-04-08'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Gujarat Titans
+    by:
+      runs: 1
+  overs: 20
+  player_of_match:
+  - Rashid Khan
+  players:
+    Gujarat Titans:
+    - M Shahrukh Khan
+    - B Sai Sudharsan
+    - Shubman Gill
+    - JC Buttler
+    - Washington Sundar
+    - GD Phillips
+    - R Tewatia
+    - Rashid Khan
+    - K Rabada
+    - Mohammed Siraj
+    - Ashok Sharma
+    - M Prasidh Krishna
+    Delhi Capitals:
+    - Mukesh Kumar
+    - P Nissanka
+    - KL Rahul
+    - N Rana
+    - Sameer Rizvi
+    - DA Miller
+    - AR Patel
+    - T Stubbs
+    - V Nigam
+    - Kuldeep Yadav
+    - L Ngidi
+    - T Natarajan
+  registry:
+    people:
+      AR Patel: 2e171977
+      Anish Sahasrabudhe: 2892df67
+      Ashok Sharma: 50c09020
+      B Sai Sudharsan: d5130a30
+      DA Miller: d67d5f00
+      GD Phillips: 9a46c4e5
+      JC Buttler: 99b75528
+      K Rabada: e62dd25d
+      KL Rahul: b17e2f24
+      Kuldeep Yadav: 8d2c70ad
+      L Ngidi: f834dcfc
+      M Prasidh Krishna: 85e0cf10
+      M Shahrukh Khan: 7dcb9bc9
+      MV Saidharshan Kumar: 54b6007b
+      Mohammed Siraj: 2f49c897
+      Mukesh Kumar: 2cffab74
+      N Rana: fb2d1dda
+      Nitin Menon: e1d41d9e
+      P Nissanka: 8ee36b18
+      R Tewatia: 39a2dfa8
+      Rashid Khan: 5f547c8b
+      Sameer Rizvi: f89d3b11
+      Shakti Singh: eb90d319
+      Shubman Gill: b4b99816
+      T Natarajan: ce794613
+      T Stubbs: 85b3fab2
+      V Nigam: 5ffc0565
+      Vinod Seshan: a3357a27
+      Washington Sundar: f19ccfad
+  teams:
+  - Gujarat Titans
+  - Delhi Capitals
+  toss:
+    winner: Delhi Capitals
+    decision: field
+  umpires:
+  - Anish Sahasrabudhe
+  - Nitin Menon
+  venue: Arun Jaitley Stadium, Delhi
+innings:
+- 1st innings:
+    team: Gujarat Titans
+    deliveries:
+    - 0.1:
+        non_striker: Shubman Gill
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Sai Sudharsan
+    - 0.2:
+        non_striker: Shubman Gill
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 0.3:
+        non_striker: B Sai Sudharsan
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubman Gill
+    - 0.4:
+        non_striker: B Sai Sudharsan
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 0.5:
+        non_striker: Shubman Gill
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 0.6:
+        non_striker: B Sai Sudharsan
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 1.1:
+        non_striker: Shubman Gill
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Sai Sudharsan
+    - 1.2:
+        non_striker: Shubman Gill
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 1.3:
+        non_striker: B Sai Sudharsan
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 1.4:
+        non_striker: B Sai Sudharsan
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 1.5:
+        non_striker: B Sai Sudharsan
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 1.6:
+        non_striker: Shubman Gill
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 2.1:
+        non_striker: Shubman Gill
+        bowler: Mukesh Kumar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Sai Sudharsan
+    - 2.2:
+        non_striker: Shubman Gill
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Sai Sudharsan
+        wicket:
+          player_out: B Sai Sudharsan
+          kind: bowled
+    - 2.3:
+        non_striker: Shubman Gill
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 2.4:
+        non_striker: Shubman Gill
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 2.5:
+        non_striker: Shubman Gill
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 2.6:
+        non_striker: Shubman Gill
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JC Buttler
+    - 2.7:
+        non_striker: Shubman Gill
+        bowler: Mukesh Kumar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JC Buttler
+    - 2.8:
+        non_striker: Shubman Gill
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 3.1:
+        non_striker: Shubman Gill
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Buttler
+    - 3.2:
+        non_striker: Shubman Gill
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JC Buttler
+    - 3.3:
+        non_striker: Shubman Gill
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 3.4:
+        non_striker: Shubman Gill
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 3.5:
+        non_striker: JC Buttler
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 3.6:
+        non_striker: Shubman Gill
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 4.1:
+        non_striker: Shubman Gill
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JC Buttler
+    - 4.2:
+        non_striker: Shubman Gill
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JC Buttler
+    - 4.3:
+        non_striker: Shubman Gill
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Buttler
+    - 4.4:
+        non_striker: Shubman Gill
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 4.5:
+        non_striker: Shubman Gill
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JC Buttler
+    - 4.6:
+        non_striker: Shubman Gill
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 5.1:
+        non_striker: Shubman Gill
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 5.2:
+        non_striker: Shubman Gill
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 5.3:
+        non_striker: Shubman Gill
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Buttler
+    - 5.4:
+        non_striker: Shubman Gill
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 5.5:
+        non_striker: Shubman Gill
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 5.6:
+        non_striker: Shubman Gill
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 6.1:
+        non_striker: Shubman Gill
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 6.2:
+        non_striker: JC Buttler
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 6.3:
+        non_striker: Shubman Gill
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JC Buttler
+    - 6.4:
+        non_striker: Shubman Gill
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 6.5:
+        non_striker: JC Buttler
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubman Gill
+    - 6.6:
+        non_striker: JC Buttler
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 7.1:
+        non_striker: Shubman Gill
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 7.2:
+        non_striker: JC Buttler
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 7.3:
+        non_striker: Shubman Gill
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+        wicket:
+          player_out: JC Buttler
+          kind: bowled
+    - 7.4:
+        non_striker: Shubman Gill
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Washington Sundar
+    - 7.5:
+        non_striker: Washington Sundar
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 7.6:
+        non_striker: Shubman Gill
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Washington Sundar
+    - 8.1:
+        non_striker: Washington Sundar
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 8.2:
+        non_striker: Washington Sundar
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 8.3:
+        non_striker: Shubman Gill
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Washington Sundar
+    - 8.4:
+        non_striker: Washington Sundar
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 8.5:
+        non_striker: Shubman Gill
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Washington Sundar
+    - 8.6:
+        non_striker: Washington Sundar
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 9.1:
+        non_striker: Washington Sundar
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shubman Gill
+    - 9.2:
+        non_striker: Washington Sundar
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 9.3:
+        non_striker: Shubman Gill
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Washington Sundar
+    - 9.4:
+        non_striker: Washington Sundar
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 9.5:
+        non_striker: Shubman Gill
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Washington Sundar
+    - 9.6:
+        non_striker: Washington Sundar
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 10.1:
+        non_striker: Washington Sundar
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 10.2:
+        non_striker: Shubman Gill
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Washington Sundar
+    - 10.3:
+        non_striker: Washington Sundar
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 10.4:
+        non_striker: Shubman Gill
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Washington Sundar
+    - 10.5:
+        non_striker: Shubman Gill
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Washington Sundar
+    - 10.6:
+        non_striker: Washington Sundar
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 11.1:
+        non_striker: Washington Sundar
+        bowler: V Nigam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 11.2:
+        non_striker: Shubman Gill
+        bowler: V Nigam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Washington Sundar
+    - 11.3:
+        non_striker: Shubman Gill
+        bowler: V Nigam
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: Washington Sundar
+    - 11.4:
+        non_striker: Shubman Gill
+        bowler: V Nigam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Washington Sundar
+    - 11.5:
+        non_striker: Shubman Gill
+        bowler: V Nigam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Washington Sundar
+    - 11.6:
+        non_striker: Washington Sundar
+        bowler: V Nigam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shubman Gill
+    - 11.7:
+        non_striker: Washington Sundar
+        bowler: V Nigam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 12.1:
+        non_striker: Shubman Gill
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Washington Sundar
+    - 12.2:
+        non_striker: Washington Sundar
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 12.3:
+        non_striker: Washington Sundar
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shubman Gill
+    - 12.4:
+        non_striker: Washington Sundar
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 12.5:
+        non_striker: Shubman Gill
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Washington Sundar
+    - 12.6:
+        non_striker: Shubman Gill
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Washington Sundar
+    - 13.1:
+        non_striker: Shubman Gill
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Washington Sundar
+    - 13.2:
+        non_striker: Washington Sundar
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 13.3:
+        non_striker: Shubman Gill
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Washington Sundar
+    - 13.4:
+        non_striker: Washington Sundar
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 13.5:
+        non_striker: Shubman Gill
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Washington Sundar
+    - 13.6:
+        non_striker: Shubman Gill
+        bowler: AR Patel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Washington Sundar
+    - 13.7:
+        non_striker: Shubman Gill
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Washington Sundar
+    - 14.1:
+        non_striker: Shubman Gill
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Washington Sundar
+    - 14.2:
+        non_striker: Shubman Gill
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Washington Sundar
+    - 14.3:
+        non_striker: Washington Sundar
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 14.4:
+        non_striker: Shubman Gill
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Washington Sundar
+    - 14.5:
+        non_striker: Washington Sundar
+        bowler: L Ngidi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shubman Gill
+    - 14.6:
+        non_striker: Washington Sundar
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubman Gill
+    - 14.7:
+        non_striker: Washington Sundar
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 15.1:
+        non_striker: Washington Sundar
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 15.2:
+        non_striker: Shubman Gill
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Washington Sundar
+    - 15.3:
+        non_striker: Washington Sundar
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubman Gill
+    - 15.4:
+        non_striker: Washington Sundar
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 15.5:
+        non_striker: Washington Sundar
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 15.6:
+        non_striker: Shubman Gill
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Washington Sundar
+    - 16.1:
+        non_striker: Washington Sundar
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shubman Gill
+    - 16.2:
+        non_striker: Washington Sundar
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 16.3:
+        non_striker: Shubman Gill
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Washington Sundar
+    - 16.4:
+        non_striker: Washington Sundar
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shubman Gill
+    - 16.5:
+        non_striker: Washington Sundar
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 16.6:
+        non_striker: Washington Sundar
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 17.1:
+        non_striker: Shubman Gill
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Washington Sundar
+    - 17.2:
+        non_striker: Washington Sundar
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 17.3:
+        non_striker: Washington Sundar
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+        wicket:
+          player_out: Shubman Gill
+          fielders:
+          - N Rana
+          kind: caught
+    - 17.4:
+        non_striker: Washington Sundar
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 17.5:
+        non_striker: Washington Sundar
+        bowler: L Ngidi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GD Phillips
+    - 17.6:
+        non_striker: Washington Sundar
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 17.7:
+        non_striker: Washington Sundar
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 18.1:
+        non_striker: Washington Sundar
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 18.2:
+        non_striker: GD Phillips
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Washington Sundar
+    - 18.3:
+        non_striker: GD Phillips
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Washington Sundar
+    - 18.4:
+        non_striker: Washington Sundar
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 18.5:
+        non_striker: GD Phillips
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Washington Sundar
+    - 18.6:
+        non_striker: GD Phillips
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Washington Sundar
+    - 19.1:
+        non_striker: Washington Sundar
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GD Phillips
+    - 19.2:
+        non_striker: Washington Sundar
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 19.3:
+        non_striker: GD Phillips
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Washington Sundar
+        wicket:
+          player_out: Washington Sundar
+          fielders:
+          - N Rana
+          kind: caught
+    - 19.4:
+        non_striker: GD Phillips
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tewatia
+    - 19.5:
+        non_striker: R Tewatia
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 19.6:
+        non_striker: R Tewatia
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GD Phillips
+- 2nd innings:
+    team: Delhi Capitals
+    deliveries:
+    - 0.1:
+        non_striker: KL Rahul
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: M Prasidh Krishna
+            out: M Shahrukh Khan
+            team: Gujarat Titans
+            reason: impact_player
+        batsman: P Nissanka
+    - 0.2:
+        non_striker: KL Rahul
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 0.3:
+        non_striker: KL Rahul
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 0.4:
+        non_striker: KL Rahul
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 0.5:
+        non_striker: P Nissanka
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 0.6:
+        non_striker: KL Rahul
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 1.1:
+        non_striker: P Nissanka
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 1.2:
+        non_striker: P Nissanka
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 1.3:
+        non_striker: P Nissanka
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 1.4:
+        non_striker: P Nissanka
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 1.5:
+        non_striker: KL Rahul
+        bowler: K Rabada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Nissanka
+    - 1.6:
+        non_striker: KL Rahul
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 1.7:
+        non_striker: KL Rahul
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 2.1:
+        non_striker: P Nissanka
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KL Rahul
+    - 2.2:
+        non_striker: P Nissanka
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 2.3:
+        non_striker: P Nissanka
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 2.4:
+        non_striker: P Nissanka
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 2.5:
+        non_striker: P Nissanka
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 2.6:
+        non_striker: P Nissanka
+        bowler: Mohammed Siraj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KL Rahul
+    - 2.7:
+        non_striker: P Nissanka
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 3.1:
+        non_striker: KL Rahul
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 3.2:
+        non_striker: P Nissanka
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 3.3:
+        non_striker: KL Rahul
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 3.4:
+        non_striker: P Nissanka
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KL Rahul
+    - 3.5:
+        non_striker: P Nissanka
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 3.6:
+        non_striker: P Nissanka
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 4.1:
+        non_striker: KL Rahul
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 4.2:
+        non_striker: KL Rahul
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 4.3:
+        non_striker: P Nissanka
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 4.4:
+        non_striker: KL Rahul
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 4.5:
+        non_striker: P Nissanka
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 4.6:
+        non_striker: P Nissanka
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 5.1:
+        non_striker: P Nissanka
+        bowler: Ashok Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 5.2:
+        non_striker: P Nissanka
+        bowler: Ashok Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 5.3:
+        non_striker: KL Rahul
+        bowler: Ashok Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 5.4:
+        non_striker: KL Rahul
+        bowler: Ashok Sharma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Nissanka
+    - 5.5:
+        non_striker: KL Rahul
+        bowler: Ashok Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 5.6:
+        non_striker: KL Rahul
+        bowler: Ashok Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 6.1:
+        non_striker: P Nissanka
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 6.2:
+        non_striker: KL Rahul
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 6.3:
+        non_striker: KL Rahul
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Nissanka
+    - 6.4:
+        non_striker: KL Rahul
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 6.5:
+        non_striker: KL Rahul
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 6.6:
+        non_striker: P Nissanka
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 7.1:
+        non_striker: KL Rahul
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 7.2:
+        non_striker: P Nissanka
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 7.3:
+        non_striker: KL Rahul
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 7.4:
+        non_striker: P Nissanka
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 7.5:
+        non_striker: P Nissanka
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 7.6:
+        non_striker: KL Rahul
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 8.1:
+        non_striker: KL Rahul
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+        wicket:
+          player_out: P Nissanka
+          fielders:
+          - R Tewatia
+          kind: caught
+    - 8.2:
+        non_striker: KL Rahul
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Rana
+    - 8.3:
+        non_striker: N Rana
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 8.4:
+        non_striker: N Rana
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KL Rahul
+    - 8.5:
+        non_striker: N Rana
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KL Rahul
+    - 8.6:
+        non_striker: N Rana
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 9.1:
+        non_striker: KL Rahul
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Rana
+    - 9.2:
+        non_striker: KL Rahul
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Rana
+    - 9.3:
+        non_striker: KL Rahul
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Rana
+    - 9.4:
+        non_striker: KL Rahul
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Rana
+    - 9.5:
+        non_striker: KL Rahul
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Rana
+        wicket:
+          player_out: N Rana
+          fielders:
+          - B Sai Sudharsan
+          kind: caught
+    - 9.6:
+        non_striker: KL Rahul
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: Sameer Rizvi
+            out: Mukesh Kumar
+            team: Delhi Capitals
+            reason: impact_player
+        batsman: Sameer Rizvi
+        wicket:
+          player_out: Sameer Rizvi
+          kind: bowled
+    - 10.1:
+        non_striker: DA Miller
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KL Rahul
+    - 10.2:
+        non_striker: DA Miller
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 10.3:
+        non_striker: KL Rahul
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 10.4:
+        non_striker: DA Miller
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 10.5:
+        non_striker: KL Rahul
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Miller
+    - 10.6:
+        non_striker: KL Rahul
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 11.1:
+        non_striker: DA Miller
+        bowler: Ashok Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 11.2:
+        non_striker: KL Rahul
+        bowler: Ashok Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 11.3:
+        non_striker: KL Rahul
+        bowler: Ashok Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 11.4:
+        non_striker: DA Miller
+        bowler: Ashok Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 11.5:
+        non_striker: KL Rahul
+        bowler: Ashok Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DA Miller
+    - 11.6:
+        non_striker: KL Rahul
+        bowler: Ashok Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 11.7:
+        non_striker: DA Miller
+        bowler: Ashok Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 12.1:
+        non_striker: DA Miller
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 12.2:
+        non_striker: KL Rahul
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Miller
+    - 12.3:
+        non_striker: KL Rahul
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 12.4:
+        non_striker: KL Rahul
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Miller
+    - 12.5:
+        non_striker: KL Rahul
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 12.6:
+        non_striker: DA Miller
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 13.1:
+        non_striker: KL Rahul
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        replacements:
+          role:
+          - in: AR Patel
+            out: DA Miller
+            reason: injury
+            role: batter
+        batsman: AR Patel
+    - 13.2:
+        non_striker: AR Patel
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 13.3:
+        non_striker: KL Rahul
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patel
+    - 13.4:
+        non_striker: AR Patel
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 13.5:
+        non_striker: AR Patel
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 13.6:
+        non_striker: KL Rahul
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patel
+        wicket:
+          player_out: AR Patel
+          fielders:
+          - GD Phillips
+          kind: caught
+    - 14.1:
+        non_striker: T Stubbs
+        bowler: K Rabada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KL Rahul
+    - 14.2:
+        non_striker: T Stubbs
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 14.3:
+        non_striker: T Stubbs
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 14.4:
+        non_striker: KL Rahul
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 14.5:
+        non_striker: T Stubbs
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 14.6:
+        non_striker: KL Rahul
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 14.7:
+        non_striker: KL Rahul
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 15.1:
+        non_striker: T Stubbs
+        bowler: Ashok Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 15.2:
+        non_striker: T Stubbs
+        bowler: Ashok Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KL Rahul
+    - 15.3:
+        non_striker: T Stubbs
+        bowler: Ashok Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 15.4:
+        non_striker: KL Rahul
+        bowler: Ashok Sharma
+        runs:
+          extras: 0
+          total: 5
+          batsman: 5
+        batsman: T Stubbs
+    - 15.5:
+        non_striker: T Stubbs
+        bowler: Ashok Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 15.6:
+        non_striker: T Stubbs
+        bowler: Ashok Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 15.7:
+        non_striker: KL Rahul
+        bowler: Ashok Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 16.1:
+        non_striker: T Stubbs
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 16.2:
+        non_striker: KL Rahul
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 16.3:
+        non_striker: T Stubbs
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 16.4:
+        non_striker: T Stubbs
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+        wicket:
+          player_out: T Stubbs
+          fielders:
+          - B Sai Sudharsan
+          kind: run out
+    - 16.5:
+        non_striker: V Nigam
+        bowler: Mohammed Siraj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KL Rahul
+    - 16.6:
+        non_striker: V Nigam
+        bowler: Mohammed Siraj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KL Rahul
+    - 16.7:
+        non_striker: V Nigam
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 16.8:
+        non_striker: V Nigam
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+        wicket:
+          player_out: KL Rahul
+          fielders:
+          - JC Buttler
+          kind: caught
+    - 17.1:
+        non_striker: V Nigam
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 17.2:
+        non_striker: DA Miller
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Nigam
+    - 17.3:
+        non_striker: DA Miller
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Nigam
+    - 17.4:
+        non_striker: DA Miller
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Nigam
+    - 17.5:
+        non_striker: V Nigam
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Miller
+    - 17.6:
+        non_striker: V Nigam
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 18.1:
+        non_striker: V Nigam
+        bowler: Mohammed Siraj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DA Miller
+    - 18.2:
+        non_striker: V Nigam
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DA Miller
+    - 18.3:
+        non_striker: V Nigam
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Miller
+    - 18.4:
+        non_striker: V Nigam
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DA Miller
+    - 18.5:
+        non_striker: V Nigam
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 18.6:
+        non_striker: DA Miller
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Nigam
+    - 18.7:
+        non_striker: DA Miller
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Nigam
+    - 19.1:
+        non_striker: DA Miller
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Nigam
+    - 19.2:
+        non_striker: DA Miller
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Nigam
+        wicket:
+          player_out: V Nigam
+          fielders:
+          - Shubman Gill
+          kind: caught
+    - 19.3:
+        non_striker: DA Miller
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kuldeep Yadav
+    - 19.4:
+        non_striker: Kuldeep Yadav
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DA Miller
+    - 19.5:
+        non_striker: Kuldeep Yadav
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 19.6:
+        non_striker: Kuldeep Yadav
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+        wicket:
+          player_out: Kuldeep Yadav
+          fielders:
+          - JC Buttler
+          kind: run out

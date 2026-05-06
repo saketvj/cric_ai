@@ -1,0 +1,2192 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-04-12'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: New Chandigarh
+  competition: IPL
+  dates:
+  - '2026-04-11'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Punjab Kings
+    by:
+      wickets: 6
+  overs: 20
+  player_of_match:
+  - SS Iyer
+  players:
+    Sunrisers Hyderabad:
+    - JD Unadkat
+    - Abhishek Sharma
+    - TM Head
+    - Ishan Kishan
+    - H Klaasen
+    - Aniket Verma
+    - S Arora
+    - Nithish Kumar Reddy
+    - Harsh Dubey
+    - Shivang Kumar
+    - HV Patel
+    - E Malinga
+    Punjab Kings:
+    - YS Chahal
+    - Priyansh Arya
+    - P Simran Singh
+    - C Connolly
+    - SS Iyer
+    - N Wadhera
+    - Shashank Singh
+    - MP Stoinis
+    - M Jansen
+    - XC Bartlett
+    - Vijaykumar Vyshak
+    - Arshdeep Singh
+  registry:
+    people:
+      A Bengeri: c109497d
+      Abhishek Sharma: f29185a1
+      Aniket Verma: a3b0600d
+      Arshdeep Singh: 244048f6
+      C Connolly: fe366f34
+      E Malinga: 5750bcb4
+      H Klaasen: 235c2bb6
+      HV Patel: f986ca1a
+      Harsh Dubey: '25228673'
+      Ishan Kishan: 752f7486
+      J Madanagopal: 8275b04a
+      J Srinath: bad31fac
+      JD Unadkat: 1e66c162
+      M Jansen: 81c36ee9
+      MP Stoinis: d9273ee7
+      N Wadhera: d1a60072
+      Nithish Kumar Reddy: aad0c365
+      P Simran Singh: 9418198b
+      Priyansh Arya: b5797845
+      R Pandit: 8a604384
+      S Arora: d7423da1
+      SS Iyer: 85ec8e33
+      Shashank Singh: 26989d80
+      Shivang Kumar: 7b44eb3e
+      TM Head: 12b610c2
+      UV Gandhe: 43dd4011
+      Vijaykumar Vyshak: 54e52590
+      XC Bartlett: 3b53243a
+      YS Chahal: 57ee1fde
+  teams:
+  - Sunrisers Hyderabad
+  - Punjab Kings
+  toss:
+    winner: Punjab Kings
+    decision: field
+  umpires:
+  - A Bengeri
+  - R Pandit
+  venue: Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh
+innings:
+- 1st innings:
+    team: Sunrisers Hyderabad
+    deliveries:
+    - 0.1:
+        non_striker: TM Head
+        bowler: Arshdeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Abhishek Sharma
+    - 0.2:
+        non_striker: TM Head
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Sharma
+    - 0.3:
+        non_striker: TM Head
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Sharma
+    - 0.4:
+        non_striker: Abhishek Sharma
+        bowler: Arshdeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TM Head
+    - 0.5:
+        non_striker: Abhishek Sharma
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 0.6:
+        non_striker: Abhishek Sharma
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 0.7:
+        non_striker: Abhishek Sharma
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 0.8:
+        non_striker: Abhishek Sharma
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM Head
+    - 1.1:
+        non_striker: TM Head
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Sharma
+    - 1.2:
+        non_striker: TM Head
+        bowler: XC Bartlett
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Abhishek Sharma
+    - 1.3:
+        non_striker: Abhishek Sharma
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 1.4:
+        non_striker: TM Head
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 1.5:
+        non_striker: TM Head
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Sharma
+    - 1.6:
+        non_striker: TM Head
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Sharma
+    - 2.1:
+        non_striker: TM Head
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Sharma
+    - 2.2:
+        non_striker: TM Head
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Sharma
+    - 2.3:
+        non_striker: TM Head
+        bowler: Arshdeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Abhishek Sharma
+    - 2.4:
+        non_striker: TM Head
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 2.5:
+        non_striker: TM Head
+        bowler: Arshdeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Abhishek Sharma
+    - 2.6:
+        non_striker: TM Head
+        bowler: Arshdeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Abhishek Sharma
+    - 2.7:
+        non_striker: TM Head
+        bowler: Arshdeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Abhishek Sharma
+    - 2.8:
+        non_striker: TM Head
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Abhishek Sharma
+    - 2.9:
+        non_striker: TM Head
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Abhishek Sharma
+    - 2.10:
+        non_striker: TM Head
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 3.1:
+        non_striker: Abhishek Sharma
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 3.2:
+        non_striker: Abhishek Sharma
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 3.3:
+        non_striker: Abhishek Sharma
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 3.4:
+        non_striker: TM Head
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Sharma
+    - 3.5:
+        non_striker: Abhishek Sharma
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TM Head
+    - 3.6:
+        non_striker: Abhishek Sharma
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 4.1:
+        non_striker: TM Head
+        bowler: Vijaykumar Vyshak
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Abhishek Sharma
+    - 4.2:
+        non_striker: TM Head
+        bowler: Vijaykumar Vyshak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 4.3:
+        non_striker: TM Head
+        bowler: Vijaykumar Vyshak
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Abhishek Sharma
+    - 4.4:
+        non_striker: TM Head
+        bowler: Vijaykumar Vyshak
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Abhishek Sharma
+    - 4.5:
+        non_striker: TM Head
+        bowler: Vijaykumar Vyshak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 4.6:
+        non_striker: TM Head
+        bowler: Vijaykumar Vyshak
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Abhishek Sharma
+    - 5.1:
+        non_striker: Abhishek Sharma
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 5.2:
+        non_striker: Abhishek Sharma
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 5.3:
+        non_striker: Abhishek Sharma
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 5.4:
+        non_striker: Abhishek Sharma
+        bowler: XC Bartlett
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: TM Head
+    - 5.5:
+        non_striker: Abhishek Sharma
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 5.6:
+        non_striker: TM Head
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Abhishek Sharma
+    - 5.7:
+        non_striker: TM Head
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Sharma
+    - 6.1:
+        non_striker: TM Head
+        bowler: Shashank Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 6.2:
+        non_striker: TM Head
+        bowler: Shashank Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Sharma
+    - 6.3:
+        non_striker: Abhishek Sharma
+        bowler: Shashank Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM Head
+    - 6.4:
+        non_striker: Abhishek Sharma
+        bowler: Shashank Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM Head
+    - 6.5:
+        non_striker: Abhishek Sharma
+        bowler: Shashank Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 6.6:
+        non_striker: Abhishek Sharma
+        bowler: Shashank Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 7.1:
+        non_striker: Abhishek Sharma
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 7.2:
+        non_striker: Abhishek Sharma
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 7.3:
+        non_striker: TM Head
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 7.4:
+        non_striker: TM Head
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Sharma
+    - 7.5:
+        non_striker: Abhishek Sharma
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 7.6:
+        non_striker: TM Head
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Abhishek Sharma
+    - 8.1:
+        non_striker: Abhishek Sharma
+        bowler: Shashank Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+        wicket:
+          player_out: TM Head
+          fielders:
+          - XC Bartlett
+          kind: caught
+    - 8.2:
+        non_striker: Abhishek Sharma
+        bowler: Shashank Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 8.3:
+        non_striker: Ishan Kishan
+        bowler: Shashank Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Abhishek Sharma
+    - 8.4:
+        non_striker: Ishan Kishan
+        bowler: Shashank Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+        wicket:
+          player_out: Abhishek Sharma
+          fielders:
+          - Arshdeep Singh
+          kind: caught
+    - 8.5:
+        non_striker: Ishan Kishan
+        bowler: Shashank Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 8.6:
+        non_striker: Ishan Kishan
+        bowler: Shashank Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 8.7:
+        non_striker: H Klaasen
+        bowler: Shashank Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 9.1:
+        non_striker: Ishan Kishan
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 9.2:
+        non_striker: Ishan Kishan
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 9.3:
+        non_striker: H Klaasen
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 9.4:
+        non_striker: Ishan Kishan
+        bowler: YS Chahal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Klaasen
+    - 9.5:
+        non_striker: Ishan Kishan
+        bowler: YS Chahal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Klaasen
+    - 9.6:
+        non_striker: Ishan Kishan
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Klaasen
+    - 9.7:
+        non_striker: Ishan Kishan
+        bowler: YS Chahal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Klaasen
+    - 9.8:
+        non_striker: Ishan Kishan
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 9.9:
+        non_striker: H Klaasen
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 10.1:
+        non_striker: H Klaasen
+        bowler: Shashank Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 10.2:
+        non_striker: H Klaasen
+        bowler: Shashank Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 10.3:
+        non_striker: H Klaasen
+        bowler: Shashank Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 10.4:
+        non_striker: Ishan Kishan
+        bowler: Shashank Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Klaasen
+    - 10.5:
+        non_striker: Ishan Kishan
+        bowler: Shashank Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 10.6:
+        non_striker: H Klaasen
+        bowler: Shashank Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 11.1:
+        non_striker: H Klaasen
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 11.2:
+        non_striker: Ishan Kishan
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 11.3:
+        non_striker: H Klaasen
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 11.4:
+        non_striker: H Klaasen
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 11.5:
+        non_striker: Ishan Kishan
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 11.6:
+        non_striker: Ishan Kishan
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 12.1:
+        non_striker: Ishan Kishan
+        bowler: Vijaykumar Vyshak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 12.2:
+        non_striker: H Klaasen
+        bowler: Vijaykumar Vyshak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 12.3:
+        non_striker: Ishan Kishan
+        bowler: Vijaykumar Vyshak
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Klaasen
+    - 12.4:
+        non_striker: Ishan Kishan
+        bowler: Vijaykumar Vyshak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 12.5:
+        non_striker: Ishan Kishan
+        bowler: Vijaykumar Vyshak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 12.6:
+        non_striker: H Klaasen
+        bowler: Vijaykumar Vyshak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 13.1:
+        non_striker: Ishan Kishan
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 13.2:
+        non_striker: H Klaasen
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ishan Kishan
+    - 13.3:
+        non_striker: H Klaasen
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 13.4:
+        non_striker: H Klaasen
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 13.5:
+        non_striker: Ishan Kishan
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 13.6:
+        non_striker: H Klaasen
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+        wicket:
+          player_out: Ishan Kishan
+          fielders:
+          - M Jansen
+          kind: caught
+    - 14.1:
+        non_striker: Aniket Verma
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Klaasen
+    - 14.2:
+        non_striker: Aniket Verma
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 14.3:
+        non_striker: H Klaasen
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aniket Verma
+    - 14.4:
+        non_striker: Aniket Verma
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 14.5:
+        non_striker: H Klaasen
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aniket Verma
+    - 14.6:
+        non_striker: Aniket Verma
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 15.1:
+        non_striker: Aniket Verma
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 15.2:
+        non_striker: H Klaasen
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aniket Verma
+    - 15.3:
+        non_striker: Aniket Verma
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 15.4:
+        non_striker: H Klaasen
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aniket Verma
+    - 15.5:
+        non_striker: Aniket Verma
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 15.6:
+        non_striker: H Klaasen
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aniket Verma
+    - 16.1:
+        non_striker: H Klaasen
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Aniket Verma
+    - 16.2:
+        non_striker: H Klaasen
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aniket Verma
+    - 16.3:
+        non_striker: H Klaasen
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aniket Verma
+    - 16.4:
+        non_striker: H Klaasen
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aniket Verma
+        wicket:
+          player_out: Aniket Verma
+          fielders:
+          - P Simran Singh
+          - MP Stoinis
+          kind: run out
+    - 16.5:
+        non_striker: H Klaasen
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Arora
+    - 16.6:
+        non_striker: S Arora
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 17.1:
+        non_striker: S Arora
+        bowler: M Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Klaasen
+    - 17.2:
+        non_striker: S Arora
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 17.3:
+        non_striker: H Klaasen
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Arora
+    - 17.4:
+        non_striker: H Klaasen
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Arora
+    - 17.5:
+        non_striker: H Klaasen
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Arora
+    - 17.6:
+        non_striker: S Arora
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 17.7:
+        non_striker: S Arora
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Klaasen
+    - 18.1:
+        non_striker: H Klaasen
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Arora
+    - 18.2:
+        non_striker: H Klaasen
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Arora
+    - 18.3:
+        non_striker: H Klaasen
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Arora
+    - 18.4:
+        non_striker: S Arora
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 18.5:
+        non_striker: H Klaasen
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Arora
+        wicket:
+          player_out: S Arora
+          fielders:
+          - XC Bartlett
+          kind: caught
+    - 18.6:
+        non_striker: H Klaasen
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 19.1:
+        non_striker: Nithish Kumar Reddy
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Klaasen
+    - 19.2:
+        non_striker: Nithish Kumar Reddy
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Klaasen
+    - 19.3:
+        non_striker: Nithish Kumar Reddy
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 19.4:
+        non_striker: Nithish Kumar Reddy
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+        wicket:
+          player_out: H Klaasen
+          fielders:
+          - C Connolly
+          kind: caught
+    - 19.5:
+        non_striker: Nithish Kumar Reddy
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harsh Dubey
+    - 19.6:
+        non_striker: Nithish Kumar Reddy
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Harsh Dubey
+- 2nd innings:
+    team: Punjab Kings
+    deliveries:
+    - 0.1:
+        non_striker: P Simran Singh
+        bowler: Harsh Dubey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        replacements:
+          match:
+          - in: JD Unadkat
+            out: TM Head
+            team: Sunrisers Hyderabad
+            reason: impact_player
+        batsman: Priyansh Arya
+    - 0.2:
+        non_striker: P Simran Singh
+        bowler: Harsh Dubey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Priyansh Arya
+    - 0.3:
+        non_striker: P Simran Singh
+        bowler: Harsh Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyansh Arya
+    - 0.4:
+        non_striker: P Simran Singh
+        bowler: Harsh Dubey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Priyansh Arya
+    - 0.5:
+        non_striker: P Simran Singh
+        bowler: Harsh Dubey
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Priyansh Arya
+    - 0.6:
+        non_striker: P Simran Singh
+        bowler: Harsh Dubey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Priyansh Arya
+    - 1.1:
+        non_striker: Priyansh Arya
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Simran Singh
+    - 1.2:
+        non_striker: Priyansh Arya
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Simran Singh
+    - 1.3:
+        non_striker: Priyansh Arya
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Simran Singh
+    - 1.4:
+        non_striker: Priyansh Arya
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 1.5:
+        non_striker: P Simran Singh
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyansh Arya
+    - 1.6:
+        non_striker: P Simran Singh
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyansh Arya
+    - 2.1:
+        non_striker: Priyansh Arya
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Simran Singh
+    - 2.2:
+        non_striker: Priyansh Arya
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Simran Singh
+    - 2.3:
+        non_striker: Priyansh Arya
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Simran Singh
+    - 2.4:
+        non_striker: Priyansh Arya
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Simran Singh
+    - 2.5:
+        non_striker: Priyansh Arya
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Simran Singh
+    - 2.6:
+        non_striker: Priyansh Arya
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 3.1:
+        non_striker: Priyansh Arya
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Simran Singh
+    - 3.2:
+        non_striker: Priyansh Arya
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Simran Singh
+    - 3.3:
+        non_striker: Priyansh Arya
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Simran Singh
+    - 3.4:
+        non_striker: Priyansh Arya
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 3.5:
+        non_striker: P Simran Singh
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyansh Arya
+    - 3.6:
+        non_striker: Priyansh Arya
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 4.1:
+        non_striker: Priyansh Arya
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Simran Singh
+    - 4.2:
+        non_striker: Priyansh Arya
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 4.3:
+        non_striker: P Simran Singh
+        bowler: E Malinga
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Priyansh Arya
+    - 4.4:
+        non_striker: P Simran Singh
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Priyansh Arya
+    - 4.5:
+        non_striker: P Simran Singh
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Priyansh Arya
+    - 4.6:
+        non_striker: P Simran Singh
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyansh Arya
+    - 4.7:
+        non_striker: Priyansh Arya
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Simran Singh
+    - 5.1:
+        non_striker: P Simran Singh
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Priyansh Arya
+    - 5.2:
+        non_striker: P Simran Singh
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Priyansh Arya
+    - 5.3:
+        non_striker: P Simran Singh
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Priyansh Arya
+    - 5.4:
+        non_striker: P Simran Singh
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Priyansh Arya
+    - 5.5:
+        non_striker: P Simran Singh
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyansh Arya
+    - 5.6:
+        non_striker: P Simran Singh
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyansh Arya
+    - 6.1:
+        non_striker: P Simran Singh
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Priyansh Arya
+    - 6.2:
+        non_striker: P Simran Singh
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyansh Arya
+        wicket:
+          player_out: Priyansh Arya
+          fielders:
+          - Nithish Kumar Reddy
+          kind: caught
+    - 6.3:
+        non_striker: P Simran Singh
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Connolly
+    - 6.4:
+        non_striker: C Connolly
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 6.5:
+        non_striker: P Simran Singh
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Connolly
+    - 6.6:
+        non_striker: P Simran Singh
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Connolly
+    - 7.1:
+        non_striker: C Connolly
+        bowler: Harsh Dubey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Simran Singh
+    - 7.2:
+        non_striker: C Connolly
+        bowler: Harsh Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 7.3:
+        non_striker: P Simran Singh
+        bowler: Harsh Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Connolly
+    - 7.4:
+        non_striker: P Simran Singh
+        bowler: Harsh Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Connolly
+    - 7.5:
+        non_striker: C Connolly
+        bowler: Harsh Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 7.6:
+        non_striker: P Simran Singh
+        bowler: Harsh Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Connolly
+    - 7.7:
+        non_striker: C Connolly
+        bowler: Harsh Dubey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Simran Singh
+    - 7.8:
+        non_striker: C Connolly
+        bowler: Harsh Dubey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Simran Singh
+    - 8.1:
+        non_striker: P Simran Singh
+        bowler: Shivang Kumar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Connolly
+    - 8.2:
+        non_striker: P Simran Singh
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Connolly
+    - 8.3:
+        non_striker: C Connolly
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 8.4:
+        non_striker: P Simran Singh
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Connolly
+    - 8.5:
+        non_striker: C Connolly
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Simran Singh
+    - 8.6:
+        non_striker: C Connolly
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Simran Singh
+        wicket:
+          player_out: P Simran Singh
+          fielders:
+          - H Klaasen
+          kind: caught
+    - 8.7:
+        non_striker: C Connolly
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 9.1:
+        non_striker: C Connolly
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 9.2:
+        non_striker: C Connolly
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 9.3:
+        non_striker: SS Iyer
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Connolly
+    - 9.4:
+        non_striker: C Connolly
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 9.5:
+        non_striker: SS Iyer
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Connolly
+    - 9.6:
+        non_striker: C Connolly
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SS Iyer
+    - 10.1:
+        non_striker: SS Iyer
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Connolly
+    - 10.2:
+        non_striker: SS Iyer
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Connolly
+        wicket:
+          player_out: C Connolly
+          fielders:
+          - Aniket Verma
+          kind: caught
+    - 10.3:
+        non_striker: SS Iyer
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        replacements:
+          match:
+          - in: N Wadhera
+            out: YS Chahal
+            team: Punjab Kings
+            reason: impact_player
+        batsman: N Wadhera
+    - 10.4:
+        non_striker: N Wadhera
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 10.5:
+        non_striker: SS Iyer
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Wadhera
+    - 10.6:
+        non_striker: SS Iyer
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Wadhera
+    - 11.1:
+        non_striker: N Wadhera
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 11.2:
+        non_striker: SS Iyer
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Wadhera
+    - 11.3:
+        non_striker: N Wadhera
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 11.4:
+        non_striker: SS Iyer
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Wadhera
+    - 11.5:
+        non_striker: N Wadhera
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SS Iyer
+    - 11.6:
+        non_striker: N Wadhera
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SS Iyer
+    - 12.1:
+        non_striker: SS Iyer
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Wadhera
+    - 12.2:
+        non_striker: SS Iyer
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Wadhera
+    - 12.3:
+        non_striker: N Wadhera
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 12.4:
+        non_striker: N Wadhera
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 12.5:
+        non_striker: SS Iyer
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Wadhera
+    - 12.6:
+        non_striker: N Wadhera
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 13.1:
+        non_striker: N Wadhera
+        bowler: Harsh Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 13.2:
+        non_striker: N Wadhera
+        bowler: Harsh Dubey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SS Iyer
+    - 13.3:
+        non_striker: N Wadhera
+        bowler: Harsh Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 13.4:
+        non_striker: SS Iyer
+        bowler: Harsh Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Wadhera
+    - 13.5:
+        non_striker: SS Iyer
+        bowler: Harsh Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Wadhera
+    - 13.6:
+        non_striker: N Wadhera
+        bowler: Harsh Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 14.1:
+        non_striker: N Wadhera
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 14.2:
+        non_striker: SS Iyer
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Wadhera
+    - 14.3:
+        non_striker: N Wadhera
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 14.4:
+        non_striker: N Wadhera
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SS Iyer
+    - 14.5:
+        non_striker: N Wadhera
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SS Iyer
+    - 14.6:
+        non_striker: N Wadhera
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SS Iyer
+    - 15.1:
+        non_striker: SS Iyer
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Wadhera
+    - 15.2:
+        non_striker: SS Iyer
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Wadhera
+    - 15.3:
+        non_striker: N Wadhera
+        bowler: E Malinga
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SS Iyer
+    - 15.4:
+        non_striker: N Wadhera
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SS Iyer
+    - 15.5:
+        non_striker: N Wadhera
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SS Iyer
+    - 15.6:
+        non_striker: N Wadhera
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 15.7:
+        non_striker: N Wadhera
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SS Iyer
+    - 16.1:
+        non_striker: SS Iyer
+        bowler: Harsh Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Wadhera
+        wicket:
+          player_out: N Wadhera
+          kind: bowled
+    - 16.2:
+        non_striker: SS Iyer
+        bowler: Harsh Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shashank Singh
+    - 16.3:
+        non_striker: Shashank Singh
+        bowler: Harsh Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 16.4:
+        non_striker: SS Iyer
+        bowler: Harsh Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shashank Singh
+    - 16.5:
+        non_striker: Shashank Singh
+        bowler: Harsh Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 16.6:
+        non_striker: SS Iyer
+        bowler: Harsh Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shashank Singh
+    - 17.1:
+        non_striker: SS Iyer
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shashank Singh
+    - 17.2:
+        non_striker: Shashank Singh
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 17.3:
+        non_striker: SS Iyer
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shashank Singh
+    - 17.4:
+        non_striker: Shashank Singh
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SS Iyer
+    - 17.5:
+        non_striker: Shashank Singh
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 17.6:
+        non_striker: SS Iyer
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shashank Singh
+    - 18.1:
+        non_striker: Shashank Singh
+        bowler: Abhishek Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 18.2:
+        non_striker: SS Iyer
+        bowler: Abhishek Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shashank Singh
+    - 18.3:
+        non_striker: Shashank Singh
+        bowler: Abhishek Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 18.4:
+        non_striker: SS Iyer
+        bowler: Abhishek Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shashank Singh
+    - 18.5:
+        non_striker: SS Iyer
+        bowler: Abhishek Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shashank Singh

@@ -1,0 +1,2191 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-04-24'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Mumbai
+  competition: IPL
+  dates:
+  - '2026-04-23'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Chennai Super Kings
+    by:
+      runs: 103
+  overs: 20
+  player_of_match:
+  - SV Samson
+  players:
+    Chennai Super Kings:
+    - SV Samson
+    - RD Gaikwad
+    - SN Khan
+    - S Dube
+    - D Brevis
+    - Kartik Sharma
+    - J Overton
+    - AJ Hosein
+    - Noor Ahmad
+    - A Kamboj
+    - Mukesh Choudhary
+    - Gurjapneet Singh
+    Mumbai Indians:
+    - MJ Santner
+    - AM Ghazanfar
+    - Q de Kock
+    - DV Malewar
+    - Naman Dhir
+    - SA Yadav
+    - Tilak Varma
+    - HH Pandya
+    - SE Rutherford
+    - SN Thakur
+    - Krish Bhagat
+    - Ashwani Kumar
+    - JJ Bumrah
+  registry:
+    people:
+      A Kamboj: fcc21ace
+      AJ Hosein: 4d7f517e
+      AM Ghazanfar: 9ca68676
+      AT Holdstock: 6fa3258c
+      Ashwani Kumar: d45c29b1
+      Bhavesh Patel: ee03dc30
+      D Brevis: 844e79d1
+      DV Malewar: 9e6032fa
+      Gurjapneet Singh: cc61ee8f
+      HH Pandya: dbe50b21
+      J Overton: 59559bc2
+      JJ Bumrah: 462411b3
+      KN Ananthapadmanabhan: 3144063a
+      Kartik Sharma: 7b679de5
+      Krish Bhagat: e48a4814
+      MJ Santner: e4a0deae
+      Mukesh Choudhary: 765a4731
+      Naman Dhir: fffa744b
+      Noor Ahmad: efc04be7
+      P Joshi: ffc0e370
+      Prakash Bhatt: f848ab0b
+      Q de Kock: 372455c4
+      RD Gaikwad: 45a43fe2
+      S Dube: a4e37e47
+      SA Yadav: 271f83cd
+      SE Rutherford: d014d5ac
+      SN Khan: f088b960
+      SN Thakur: 1abb78f8
+      SV Samson: a4cc73aa
+      Tilak Varma: b0482a1d
+  teams:
+  - Chennai Super Kings
+  - Mumbai Indians
+  toss:
+    winner: Mumbai Indians
+    decision: field
+  umpires:
+  - AT Holdstock
+  - P Joshi
+  venue: Wankhede Stadium, Mumbai
+innings:
+- 1st innings:
+    team: Chennai Super Kings
+    deliveries:
+    - 0.1:
+        non_striker: RD Gaikwad
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 0.2:
+        non_striker: RD Gaikwad
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 0.3:
+        non_striker: SV Samson
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Gaikwad
+    - 0.4:
+        non_striker: SV Samson
+        bowler: JJ Bumrah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RD Gaikwad
+    - 0.5:
+        non_striker: RD Gaikwad
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 0.6:
+        non_striker: RD Gaikwad
+        bowler: JJ Bumrah
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: SV Samson
+    - 0.7:
+        non_striker: RD Gaikwad
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 1.1:
+        non_striker: SV Samson
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Gaikwad
+    - 1.2:
+        non_striker: SV Samson
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Gaikwad
+    - 1.3:
+        non_striker: SV Samson
+        bowler: HH Pandya
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: RD Gaikwad
+    - 1.4:
+        non_striker: SV Samson
+        bowler: HH Pandya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RD Gaikwad
+    - 1.5:
+        non_striker: SV Samson
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Gaikwad
+    - 1.6:
+        non_striker: SV Samson
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RD Gaikwad
+    - 1.7:
+        non_striker: SV Samson
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Gaikwad
+    - 1.8:
+        non_striker: SV Samson
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 2.1:
+        non_striker: SV Samson
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Gaikwad
+    - 2.2:
+        non_striker: SV Samson
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Gaikwad
+    - 2.3:
+        non_striker: SV Samson
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 2.4:
+        non_striker: RD Gaikwad
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 2.5:
+        non_striker: SV Samson
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Gaikwad
+    - 2.6:
+        non_striker: SV Samson
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Gaikwad
+        wicket:
+          player_out: RD Gaikwad
+          fielders:
+          - Tilak Varma
+          kind: caught
+    - 3.1:
+        non_striker: SN Khan
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 3.2:
+        non_striker: SN Khan
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 3.3:
+        non_striker: SN Khan
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SV Samson
+    - 3.4:
+        non_striker: SN Khan
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SV Samson
+    - 3.5:
+        non_striker: SN Khan
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SV Samson
+    - 3.6:
+        non_striker: SN Khan
+        bowler: HH Pandya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SV Samson
+    - 3.7:
+        non_striker: SN Khan
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SV Samson
+    - 4.1:
+        non_striker: SV Samson
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SN Khan
+    - 4.2:
+        non_striker: SV Samson
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SN Khan
+    - 4.3:
+        non_striker: SN Khan
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SV Samson
+    - 4.4:
+        non_striker: SN Khan
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 4.5:
+        non_striker: SV Samson
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Khan
+    - 4.6:
+        non_striker: SV Samson
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SN Khan
+    - 5.1:
+        non_striker: SV Samson
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SN Khan
+    - 5.2:
+        non_striker: SV Samson
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SN Khan
+    - 5.3:
+        non_striker: SV Samson
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Khan
+    - 5.4:
+        non_striker: SV Samson
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Khan
+        wicket:
+          player_out: SN Khan
+          kind: bowled
+    - 5.5:
+        non_striker: SV Samson
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 5.6:
+        non_striker: S Dube
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 6.1:
+        non_striker: SV Samson
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dube
+    - 6.2:
+        non_striker: SV Samson
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 6.3:
+        non_striker: S Dube
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SV Samson
+    - 6.4:
+        non_striker: S Dube
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 6.5:
+        non_striker: SV Samson
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 6.6:
+        non_striker: S Dube
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 7.1:
+        non_striker: S Dube
+        bowler: Ashwani Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 7.2:
+        non_striker: SV Samson
+        bowler: Ashwani Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dube
+    - 7.3:
+        non_striker: SV Samson
+        bowler: Ashwani Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 7.4:
+        non_striker: S Dube
+        bowler: Ashwani Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SV Samson
+    - 7.5:
+        non_striker: S Dube
+        bowler: Ashwani Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 7.6:
+        non_striker: SV Samson
+        bowler: Ashwani Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 8.1:
+        non_striker: SV Samson
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dube
+        wicket:
+          player_out: S Dube
+          kind: bowled
+    - 8.2:
+        non_striker: SV Samson
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 8.3:
+        non_striker: D Brevis
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 8.4:
+        non_striker: SV Samson
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 8.5:
+        non_striker: D Brevis
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 8.6:
+        non_striker: SV Samson
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 9.1:
+        non_striker: SV Samson
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Brevis
+    - 9.2:
+        non_striker: SV Samson
+        bowler: MJ Santner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Brevis
+    - 9.3:
+        non_striker: SV Samson
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 9.4:
+        non_striker: D Brevis
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 9.5:
+        non_striker: SV Samson
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 9.6:
+        non_striker: SV Samson
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Brevis
+    - 9.7:
+        non_striker: SV Samson
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 10.1:
+        non_striker: D Brevis
+        bowler: Ashwani Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 10.2:
+        non_striker: SV Samson
+        bowler: Ashwani Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 10.3:
+        non_striker: D Brevis
+        bowler: Ashwani Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SV Samson
+    - 10.4:
+        non_striker: D Brevis
+        bowler: Ashwani Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 10.5:
+        non_striker: SV Samson
+        bowler: Ashwani Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Brevis
+    - 10.6:
+        non_striker: SV Samson
+        bowler: Ashwani Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+        wicket:
+          player_out: D Brevis
+          fielders:
+          - JJ Bumrah
+          kind: caught
+    - 11.1:
+        non_striker: Kartik Sharma
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 11.2:
+        non_striker: SV Samson
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kartik Sharma
+    - 11.3:
+        non_striker: Kartik Sharma
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 11.4:
+        non_striker: SV Samson
+        bowler: MJ Santner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kartik Sharma
+    - 11.5:
+        non_striker: SV Samson
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kartik Sharma
+    - 11.6:
+        non_striker: Kartik Sharma
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 11.7:
+        non_striker: SV Samson
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kartik Sharma
+    - 12.1:
+        non_striker: Kartik Sharma
+        bowler: Ashwani Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 12.2:
+        non_striker: SV Samson
+        bowler: Ashwani Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kartik Sharma
+    - 12.3:
+        non_striker: SV Samson
+        bowler: Ashwani Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kartik Sharma
+    - 12.4:
+        non_striker: SV Samson
+        bowler: Ashwani Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kartik Sharma
+    - 12.5:
+        non_striker: Kartik Sharma
+        bowler: Ashwani Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 12.6:
+        non_striker: Kartik Sharma
+        bowler: Ashwani Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 13.1:
+        non_striker: Kartik Sharma
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 13.2:
+        non_striker: SV Samson
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Kartik Sharma
+    - 13.3:
+        non_striker: SV Samson
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kartik Sharma
+    - 13.4:
+        non_striker: SV Samson
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kartik Sharma
+    - 13.5:
+        non_striker: SV Samson
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Kartik Sharma
+    - 13.6:
+        non_striker: SV Samson
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kartik Sharma
+    - 14.1:
+        non_striker: SV Samson
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kartik Sharma
+    - 14.2:
+        non_striker: Kartik Sharma
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 14.3:
+        non_striker: SV Samson
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kartik Sharma
+    - 14.4:
+        non_striker: Kartik Sharma
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 14.5:
+        non_striker: SV Samson
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kartik Sharma
+    - 14.6:
+        non_striker: SV Samson
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kartik Sharma
+    - 15.1:
+        non_striker: Kartik Sharma
+        bowler: Krish Bhagat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 15.2:
+        non_striker: Kartik Sharma
+        bowler: Krish Bhagat
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SV Samson
+    - 15.3:
+        non_striker: Kartik Sharma
+        bowler: Krish Bhagat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SV Samson
+    - 15.4:
+        non_striker: Kartik Sharma
+        bowler: Krish Bhagat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SV Samson
+    - 15.5:
+        non_striker: Kartik Sharma
+        bowler: Krish Bhagat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 15.6:
+        non_striker: Kartik Sharma
+        bowler: Krish Bhagat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 16.1:
+        non_striker: Kartik Sharma
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 16.2:
+        non_striker: SV Samson
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kartik Sharma
+    - 16.3:
+        non_striker: SV Samson
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kartik Sharma
+    - 16.4:
+        non_striker: SV Samson
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kartik Sharma
+    - 16.5:
+        non_striker: SV Samson
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kartik Sharma
+        wicket:
+          player_out: Kartik Sharma
+          fielders:
+          - MJ Santner
+          kind: caught
+    - 16.6:
+        non_striker: SV Samson
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Overton
+    - 17.1:
+        non_striker: SV Samson
+        bowler: Ashwani Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        replacements:
+          match:
+          - in: DV Malewar
+            out: AM Ghazanfar
+            team: Mumbai Indians
+            reason: impact_player
+        batsman: J Overton
+    - 17.2:
+        non_striker: SV Samson
+        bowler: Ashwani Kumar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Overton
+    - 17.3:
+        non_striker: SV Samson
+        bowler: Ashwani Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Overton
+    - 17.4:
+        non_striker: SV Samson
+        bowler: Ashwani Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Overton
+    - 17.5:
+        non_striker: SV Samson
+        bowler: Ashwani Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Overton
+    - 17.6:
+        non_striker: SV Samson
+        bowler: Ashwani Kumar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Overton
+    - 17.7:
+        non_striker: SV Samson
+        bowler: Ashwani Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Overton
+        wicket:
+          player_out: J Overton
+          fielders:
+          - Naman Dhir
+          kind: caught
+    - 18.1:
+        non_striker: AJ Hosein
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        replacements:
+          match:
+          - in: AJ Hosein
+            out: Kartik Sharma
+            team: Chennai Super Kings
+            reason: impact_player
+        batsman: SV Samson
+    - 18.2:
+        non_striker: SV Samson
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 18.3:
+        non_striker: AJ Hosein
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 18.4:
+        non_striker: SV Samson
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 18.5:
+        non_striker: AJ Hosein
+        bowler: JJ Bumrah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: SV Samson
+    - 18.6:
+        non_striker: AJ Hosein
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SV Samson
+    - 18.7:
+        non_striker: AJ Hosein
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 19.1:
+        non_striker: AJ Hosein
+        bowler: Krish Bhagat
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SV Samson
+    - 19.2:
+        non_striker: AJ Hosein
+        bowler: Krish Bhagat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 19.3:
+        non_striker: AJ Hosein
+        bowler: Krish Bhagat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 19.4:
+        non_striker: AJ Hosein
+        bowler: Krish Bhagat
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SV Samson
+    - 19.5:
+        non_striker: AJ Hosein
+        bowler: Krish Bhagat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 19.6:
+        non_striker: AJ Hosein
+        bowler: Krish Bhagat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SV Samson
+- 2nd innings:
+    team: Mumbai Indians
+    deliveries:
+    - 0.1:
+        non_striker: DV Malewar
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 0.2:
+        non_striker: DV Malewar
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Q de Kock
+    - 0.3:
+        non_striker: DV Malewar
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 0.4:
+        non_striker: DV Malewar
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 0.5:
+        non_striker: DV Malewar
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 0.6:
+        non_striker: Q de Kock
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DV Malewar
+        wicket:
+          player_out: DV Malewar
+          fielders:
+          - SV Samson
+          kind: caught
+    - 1.1:
+        non_striker: Naman Dhir
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 1.2:
+        non_striker: Naman Dhir
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 1.3:
+        non_striker: Naman Dhir
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 1.4:
+        non_striker: Naman Dhir
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 1.5:
+        non_striker: Naman Dhir
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+        wicket:
+          player_out: Q de Kock
+          kind: bowled
+    - 1.6:
+        non_striker: Naman Dhir
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 2.1:
+        non_striker: SA Yadav
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naman Dhir
+    - 2.2:
+        non_striker: SA Yadav
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naman Dhir
+    - 2.3:
+        non_striker: SA Yadav
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naman Dhir
+        wicket:
+          player_out: Naman Dhir
+          kind: bowled
+    - 2.4:
+        non_striker: SA Yadav
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 2.5:
+        non_striker: SA Yadav
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 2.6:
+        non_striker: SA Yadav
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 3.1:
+        non_striker: Tilak Varma
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 3.2:
+        non_striker: SA Yadav
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 3.3:
+        non_striker: SA Yadav
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 3.4:
+        non_striker: Tilak Varma
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 3.5:
+        non_striker: Tilak Varma
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 3.6:
+        non_striker: Tilak Varma
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 4.1:
+        non_striker: SA Yadav
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 4.2:
+        non_striker: Tilak Varma
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 4.3:
+        non_striker: SA Yadav
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tilak Varma
+    - 4.4:
+        non_striker: SA Yadav
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 4.5:
+        non_striker: Tilak Varma
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 4.6:
+        non_striker: Tilak Varma
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 5.1:
+        non_striker: SA Yadav
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 5.2:
+        non_striker: Tilak Varma
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 5.3:
+        non_striker: Tilak Varma
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 5.4:
+        non_striker: SA Yadav
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 5.5:
+        non_striker: SA Yadav
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 5.6:
+        non_striker: SA Yadav
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Tilak Varma
+    - 5.7:
+        non_striker: SA Yadav
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Tilak Varma
+    - 5.8:
+        non_striker: SA Yadav
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 6.1:
+        non_striker: SA Yadav
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 6.2:
+        non_striker: SA Yadav
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 6.3:
+        non_striker: Tilak Varma
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 6.4:
+        non_striker: Tilak Varma
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 6.5:
+        non_striker: Tilak Varma
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 6.6:
+        non_striker: Tilak Varma
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 7.1:
+        non_striker: SA Yadav
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tilak Varma
+    - 7.2:
+        non_striker: SA Yadav
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 7.3:
+        non_striker: Tilak Varma
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 7.4:
+        non_striker: Tilak Varma
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 7.5:
+        non_striker: Tilak Varma
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SA Yadav
+    - 7.6:
+        non_striker: Tilak Varma
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 7.7:
+        non_striker: SA Yadav
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 8.1:
+        non_striker: SA Yadav
+        bowler: Noor Ahmad
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Tilak Varma
+    - 8.2:
+        non_striker: Tilak Varma
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 8.3:
+        non_striker: Tilak Varma
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 8.4:
+        non_striker: SA Yadav
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 8.5:
+        non_striker: Tilak Varma
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 8.6:
+        non_striker: SA Yadav
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 8.7:
+        non_striker: Tilak Varma
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 9.1:
+        non_striker: SA Yadav
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tilak Varma
+    - 9.2:
+        non_striker: SA Yadav
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Tilak Varma
+    - 9.3:
+        non_striker: SA Yadav
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tilak Varma
+    - 9.4:
+        non_striker: SA Yadav
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 9.5:
+        non_striker: Tilak Varma
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 9.6:
+        non_striker: SA Yadav
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 10.1:
+        non_striker: SA Yadav
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 10.2:
+        non_striker: Tilak Varma
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 10.3:
+        non_striker: Tilak Varma
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 10.4:
+        non_striker: SA Yadav
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tilak Varma
+    - 10.5:
+        non_striker: SA Yadav
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 10.6:
+        non_striker: Tilak Varma
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Yadav
+    - 11.1:
+        non_striker: SA Yadav
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 11.2:
+        non_striker: Tilak Varma
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Yadav
+    - 11.3:
+        non_striker: Tilak Varma
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Yadav
+    - 11.4:
+        non_striker: Tilak Varma
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 11.5:
+        non_striker: SA Yadav
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+        wicket:
+          player_out: Tilak Varma
+          kind: bowled
+    - 11.6:
+        non_striker: SA Yadav
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 12.1:
+        non_striker: SA Yadav
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+        wicket:
+          player_out: HH Pandya
+          fielders:
+          - Mukesh Choudhary
+          kind: caught
+    - 12.2:
+        non_striker: SA Yadav
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+        wicket:
+          player_out: SE Rutherford
+          fielders:
+          - A Kamboj
+          kind: caught
+    - 12.3:
+        non_striker: SA Yadav
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: SN Thakur
+            out: MJ Santner
+            team: Mumbai Indians
+            reason: concussion_substitute
+        batsman: SN Thakur
+    - 12.4:
+        non_striker: SA Yadav
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Thakur
+    - 12.5:
+        non_striker: SA Yadav
+        bowler: Noor Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SN Thakur
+    - 12.6:
+        non_striker: SN Thakur
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 13.1:
+        non_striker: SN Thakur
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+        wicket:
+          player_out: SA Yadav
+          fielders:
+          - SN Khan
+          kind: caught
+    - 13.2:
+        non_striker: SN Thakur
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Krish Bhagat
+    - 13.3:
+        non_striker: SN Thakur
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Krish Bhagat
+    - 13.4:
+        non_striker: Krish Bhagat
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SN Thakur
+    - 13.5:
+        non_striker: SN Thakur
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Krish Bhagat
+    - 13.6:
+        non_striker: SN Thakur
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Krish Bhagat
+    - 14.1:
+        non_striker: SN Thakur
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Krish Bhagat
+    - 14.2:
+        non_striker: Krish Bhagat
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SN Thakur
+    - 14.3:
+        non_striker: SN Thakur
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Krish Bhagat
+    - 14.4:
+        non_striker: SN Thakur
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Krish Bhagat
+    - 14.5:
+        non_striker: Krish Bhagat
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SN Thakur
+    - 14.6:
+        non_striker: SN Thakur
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Krish Bhagat
+    - 15.1:
+        non_striker: Krish Bhagat
+        bowler: Gurjapneet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Thakur
+    - 15.2:
+        non_striker: Krish Bhagat
+        bowler: Gurjapneet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SN Thakur
+    - 15.3:
+        non_striker: SN Thakur
+        bowler: Gurjapneet Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Krish Bhagat
+    - 15.4:
+        non_striker: SN Thakur
+        bowler: Gurjapneet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Krish Bhagat
+    - 15.5:
+        non_striker: Krish Bhagat
+        bowler: Gurjapneet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SN Thakur
+    - 15.6:
+        non_striker: SN Thakur
+        bowler: Gurjapneet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Krish Bhagat
+    - 16.1:
+        non_striker: Krish Bhagat
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Thakur
+    - 16.2:
+        non_striker: Krish Bhagat
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SN Thakur
+    - 16.3:
+        non_striker: SN Thakur
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Krish Bhagat
+    - 16.4:
+        non_striker: SN Thakur
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Krish Bhagat
+    - 16.5:
+        non_striker: SN Thakur
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Krish Bhagat
+    - 16.6:
+        non_striker: SN Thakur
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Krish Bhagat
+        wicket:
+          player_out: Krish Bhagat
+          fielders:
+          - Gurjapneet Singh
+          kind: caught
+    - 17.1:
+        non_striker: Ashwani Kumar
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Thakur
+        wicket:
+          player_out: SN Thakur
+          fielders:
+          - D Brevis
+          kind: caught
+    - 17.2:
+        non_striker: Ashwani Kumar
+        bowler: A Kamboj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JJ Bumrah
+    - 17.3:
+        non_striker: Ashwani Kumar
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Bumrah
+    - 17.4:
+        non_striker: JJ Bumrah
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashwani Kumar
+    - 17.5:
+        non_striker: JJ Bumrah
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashwani Kumar
+    - 17.6:
+        non_striker: JJ Bumrah
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashwani Kumar
+    - 17.7:
+        non_striker: JJ Bumrah
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashwani Kumar
+    - 18.1:
+        non_striker: Ashwani Kumar
+        bowler: Gurjapneet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Bumrah
+    - 18.2:
+        non_striker: Ashwani Kumar
+        bowler: Gurjapneet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Bumrah
+    - 18.3:
+        non_striker: JJ Bumrah
+        bowler: Gurjapneet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashwani Kumar
+    - 18.4:
+        non_striker: JJ Bumrah
+        bowler: Gurjapneet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ashwani Kumar
+    - 18.5:
+        non_striker: Ashwani Kumar
+        bowler: Gurjapneet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Bumrah
+    - 18.6:
+        non_striker: Ashwani Kumar
+        bowler: Gurjapneet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Bumrah
+        wicket:
+          player_out: JJ Bumrah
+          fielders:
+          - SV Samson
+          kind: caught

@@ -1,0 +1,2227 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-04-13'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Hyderabad
+  competition: IPL
+  dates:
+  - '2026-04-13'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Sunrisers Hyderabad
+    by:
+      runs: 57
+  overs: 20
+  player_of_match:
+  - PP Hinge
+  players:
+    Sunrisers Hyderabad:
+    - Sakib Hussain
+    - Abhishek Sharma
+    - TM Head
+    - Ishan Kishan
+    - H Klaasen
+    - Nithish Kumar Reddy
+    - S Arora
+    - Aniket Verma
+    - Harsh Dubey
+    - Shivang Kumar
+    - PP Hinge
+    - E Malinga
+    Rajasthan Royals:
+    - Sandeep Sharma
+    - YBK Jaiswal
+    - V Suryavanshi
+    - Dhruv Jurel
+    - LG Pretorius
+    - R Parag
+    - RA Jadeja
+    - D Ferreira
+    - JC Archer
+    - TU Deshpande
+    - Ravi Bishnoi
+    - N Burger
+  registry:
+    people:
+      A Bengeri: c109497d
+      Abhishek Sharma: f29185a1
+      Aniket Verma: a3b0600d
+      D Ferreira: f0af99a7
+      Dhruv Jurel: bcf325d2
+      E Malinga: 5750bcb4
+      H Klaasen: 235c2bb6
+      Harsh Dubey: '25228673'
+      Ishan Kishan: 752f7486
+      J Madanagopal: 8275b04a
+      J Srinath: bad31fac
+      JC Archer: 5574750c
+      LG Pretorius: 60aa2db3
+      N Burger: 465aa633
+      Nithish Kumar Reddy: aad0c365
+      PP Hinge: ece7b6b3
+      R Pandit: 8a604384
+      R Parag: 04a418e8
+      RA Jadeja: fe93fd9d
+      Ravi Bishnoi: df064e1a
+      S Arora: d7423da1
+      Sakib Hussain: 280fff14
+      Sandeep Sharma: ce820073
+      Shivang Kumar: 7b44eb3e
+      TM Head: 12b610c2
+      TU Deshpande: 46a9bea1
+      UV Gandhe: 43dd4011
+      V Suryavanshi: 470f446b
+      YBK Jaiswal: 6c19c6e5
+  teams:
+  - Sunrisers Hyderabad
+  - Rajasthan Royals
+  toss:
+    winner: Rajasthan Royals
+    decision: field
+  umpires:
+  - J Madanagopal
+  - R Pandit
+  venue: Rajiv Gandhi International Stadium, Uppal, Hyderabad
+innings:
+- 1st innings:
+    team: Sunrisers Hyderabad
+    deliveries:
+    - 0.1:
+        non_striker: TM Head
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+        wicket:
+          player_out: Abhishek Sharma
+          fielders:
+          - Ravi Bishnoi
+          kind: caught
+    - 0.2:
+        non_striker: TM Head
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 0.3:
+        non_striker: TM Head
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 0.4:
+        non_striker: TM Head
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ishan Kishan
+    - 0.5:
+        non_striker: TM Head
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 0.6:
+        non_striker: TM Head
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 1.1:
+        non_striker: Ishan Kishan
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 1.2:
+        non_striker: Ishan Kishan
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 1.3:
+        non_striker: Ishan Kishan
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 1.4:
+        non_striker: Ishan Kishan
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 1.5:
+        non_striker: Ishan Kishan
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 1.6:
+        non_striker: Ishan Kishan
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 2.1:
+        non_striker: TM Head
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 2.2:
+        non_striker: TM Head
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 2.3:
+        non_striker: TM Head
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 2.4:
+        non_striker: TM Head
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ishan Kishan
+    - 2.5:
+        non_striker: TM Head
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 2.6:
+        non_striker: TM Head
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 3.1:
+        non_striker: Ishan Kishan
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 3.2:
+        non_striker: Ishan Kishan
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 3.3:
+        non_striker: TM Head
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ishan Kishan
+    - 3.4:
+        non_striker: TM Head
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 3.5:
+        non_striker: Ishan Kishan
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 3.6:
+        non_striker: Ishan Kishan
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 4.1:
+        non_striker: TM Head
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 4.2:
+        non_striker: TM Head
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ishan Kishan
+    - 4.3:
+        non_striker: TM Head
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ishan Kishan
+    - 4.4:
+        non_striker: TM Head
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ishan Kishan
+    - 4.5:
+        non_striker: TM Head
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 4.6:
+        non_striker: Ishan Kishan
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 5.1:
+        non_striker: Ishan Kishan
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 5.2:
+        non_striker: TM Head
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 5.3:
+        non_striker: TM Head
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 5.4:
+        non_striker: Ishan Kishan
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 5.5:
+        non_striker: Ishan Kishan
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 5.6:
+        non_striker: Ishan Kishan
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 6.1:
+        non_striker: Ishan Kishan
+        bowler: R Parag
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 6.2:
+        non_striker: TM Head
+        bowler: R Parag
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 6.3:
+        non_striker: Ishan Kishan
+        bowler: R Parag
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 6.4:
+        non_striker: TM Head
+        bowler: R Parag
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 6.5:
+        non_striker: Ishan Kishan
+        bowler: R Parag
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+        wicket:
+          player_out: TM Head
+          fielders:
+          - D Ferreira
+          kind: caught
+    - 6.6:
+        non_striker: Ishan Kishan
+        bowler: R Parag
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 7.1:
+        non_striker: Ishan Kishan
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 7.2:
+        non_striker: H Klaasen
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 7.3:
+        non_striker: Ishan Kishan
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 7.4:
+        non_striker: H Klaasen
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 7.5:
+        non_striker: Ishan Kishan
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 7.6:
+        non_striker: H Klaasen
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 8.1:
+        non_striker: H Klaasen
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 8.2:
+        non_striker: Ishan Kishan
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 8.3:
+        non_striker: H Klaasen
+        bowler: Sandeep Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ishan Kishan
+    - 8.4:
+        non_striker: H Klaasen
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ishan Kishan
+    - 8.5:
+        non_striker: H Klaasen
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 8.6:
+        non_striker: Ishan Kishan
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 8.7:
+        non_striker: Ishan Kishan
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 9.1:
+        non_striker: Ishan Kishan
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 9.2:
+        non_striker: H Klaasen
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 9.3:
+        non_striker: Ishan Kishan
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Klaasen
+    - 9.4:
+        non_striker: Ishan Kishan
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 9.5:
+        non_striker: H Klaasen
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ishan Kishan
+    - 9.6:
+        non_striker: H Klaasen
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 10.1:
+        non_striker: H Klaasen
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 10.2:
+        non_striker: H Klaasen
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 10.3:
+        non_striker: H Klaasen
+        bowler: TU Deshpande
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ishan Kishan
+    - 10.4:
+        non_striker: H Klaasen
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ishan Kishan
+    - 10.5:
+        non_striker: H Klaasen
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 10.6:
+        non_striker: H Klaasen
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ishan Kishan
+    - 10.7:
+        non_striker: H Klaasen
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 11.1:
+        non_striker: Ishan Kishan
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 11.2:
+        non_striker: H Klaasen
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 11.3:
+        non_striker: Ishan Kishan
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 11.4:
+        non_striker: Ishan Kishan
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Klaasen
+    - 11.5:
+        non_striker: Ishan Kishan
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: H Klaasen
+    - 11.6:
+        non_striker: H Klaasen
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ishan Kishan
+    - 12.1:
+        non_striker: Ishan Kishan
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Klaasen
+    - 12.2:
+        non_striker: Ishan Kishan
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 12.3:
+        non_striker: H Klaasen
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 12.4:
+        non_striker: H Klaasen
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 12.5:
+        non_striker: H Klaasen
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 12.6:
+        non_striker: H Klaasen
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 13.1:
+        non_striker: Ishan Kishan
+        bowler: Sandeep Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Klaasen
+    - 13.2:
+        non_striker: Ishan Kishan
+        bowler: Sandeep Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Klaasen
+    - 13.3:
+        non_striker: Ishan Kishan
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 13.4:
+        non_striker: H Klaasen
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+        wicket:
+          player_out: Ishan Kishan
+          kind: caught and bowled
+    - 13.5:
+        non_striker: H Klaasen
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 13.6:
+        non_striker: H Klaasen
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 13.7:
+        non_striker: H Klaasen
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nithish Kumar Reddy
+    - 13.8:
+        non_striker: Nithish Kumar Reddy
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 14.1:
+        non_striker: Nithish Kumar Reddy
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 14.2:
+        non_striker: H Klaasen
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nithish Kumar Reddy
+    - 14.3:
+        non_striker: Nithish Kumar Reddy
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 14.4:
+        non_striker: Nithish Kumar Reddy
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 14.5:
+        non_striker: Nithish Kumar Reddy
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Klaasen
+    - 14.6:
+        non_striker: Nithish Kumar Reddy
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 15.1:
+        non_striker: Nithish Kumar Reddy
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 15.2:
+        non_striker: Nithish Kumar Reddy
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 15.3:
+        non_striker: H Klaasen
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Nithish Kumar Reddy
+    - 15.4:
+        non_striker: H Klaasen
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nithish Kumar Reddy
+    - 15.5:
+        non_striker: Nithish Kumar Reddy
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+        wicket:
+          player_out: H Klaasen
+          fielders:
+          - R Parag
+          kind: caught
+    - 15.6:
+        non_striker: Nithish Kumar Reddy
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Arora
+    - 16.1:
+        non_striker: Nithish Kumar Reddy
+        bowler: N Burger
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Arora
+    - 16.2:
+        non_striker: S Arora
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nithish Kumar Reddy
+    - 16.3:
+        non_striker: Nithish Kumar Reddy
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Arora
+    - 16.4:
+        non_striker: Nithish Kumar Reddy
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Arora
+    - 16.5:
+        non_striker: Nithish Kumar Reddy
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Arora
+    - 16.6:
+        non_striker: Nithish Kumar Reddy
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Arora
+    - 17.1:
+        non_striker: Nithish Kumar Reddy
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Arora
+    - 17.2:
+        non_striker: Nithish Kumar Reddy
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Arora
+    - 17.3:
+        non_striker: S Arora
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Nithish Kumar Reddy
+    - 17.4:
+        non_striker: S Arora
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Nithish Kumar Reddy
+    - 17.5:
+        non_striker: S Arora
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 17.6:
+        non_striker: S Arora
+        bowler: Sandeep Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nithish Kumar Reddy
+    - 17.7:
+        non_striker: S Arora
+        bowler: Sandeep Sharma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Nithish Kumar Reddy
+    - 18.1:
+        non_striker: Nithish Kumar Reddy
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Arora
+    - 18.2:
+        non_striker: S Arora
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 18.3:
+        non_striker: S Arora
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+        wicket:
+          player_out: Nithish Kumar Reddy
+          fielders:
+          - Dhruv Jurel
+          kind: caught
+    - 18.4:
+        non_striker: S Arora
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aniket Verma
+    - 18.5:
+        non_striker: Aniket Verma
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Arora
+    - 18.6:
+        non_striker: Aniket Verma
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Arora
+    - 19.1:
+        non_striker: S Arora
+        bowler: TU Deshpande
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aniket Verma
+    - 19.2:
+        non_striker: S Arora
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aniket Verma
+    - 19.3:
+        non_striker: S Arora
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aniket Verma
+    - 19.4:
+        non_striker: S Arora
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aniket Verma
+    - 19.5:
+        non_striker: S Arora
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aniket Verma
+    - 19.6:
+        non_striker: Aniket Verma
+        bowler: TU Deshpande
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Arora
+        wicket:
+          player_out: Aniket Verma
+          fielders:
+          - Dhruv Jurel
+          - TU Deshpande
+          kind: run out
+    - 19.7:
+        non_striker: Harsh Dubey
+        bowler: TU Deshpande
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Arora
+    - 19.8:
+        non_striker: Harsh Dubey
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Arora
+    - 19.9:
+        non_striker: Harsh Dubey
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Arora
+- 2nd innings:
+    team: Rajasthan Royals
+    deliveries:
+    - 0.1:
+        non_striker: V Suryavanshi
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        replacements:
+          match:
+          - in: Sakib Hussain
+            out: TM Head
+            team: Sunrisers Hyderabad
+            reason: impact_player
+          - in: V Suryavanshi
+            out: Sandeep Sharma
+            team: Rajasthan Royals
+            reason: impact_player
+        batsman: YBK Jaiswal
+    - 0.2:
+        non_striker: YBK Jaiswal
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Suryavanshi
+        wicket:
+          player_out: V Suryavanshi
+          fielders:
+          - S Arora
+          kind: caught
+    - 0.3:
+        non_striker: YBK Jaiswal
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dhruv Jurel
+    - 0.4:
+        non_striker: YBK Jaiswal
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dhruv Jurel
+        wicket:
+          player_out: Dhruv Jurel
+          kind: bowled
+    - 0.5:
+        non_striker: YBK Jaiswal
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LG Pretorius
+    - 0.6:
+        non_striker: YBK Jaiswal
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LG Pretorius
+        wicket:
+          player_out: LG Pretorius
+          fielders:
+          - Nithish Kumar Reddy
+          kind: caught
+    - 1.1:
+        non_striker: R Parag
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 1.2:
+        non_striker: R Parag
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 1.3:
+        non_striker: R Parag
+        bowler: Sakib Hussain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: YBK Jaiswal
+    - 1.4:
+        non_striker: R Parag
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 1.5:
+        non_striker: R Parag
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+        wicket:
+          player_out: YBK Jaiswal
+          fielders:
+          - Nithish Kumar Reddy
+          kind: caught
+    - 1.6:
+        non_striker: R Parag
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 1.7:
+        non_striker: R Parag
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RA Jadeja
+    - 2.1:
+        non_striker: RA Jadeja
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Parag
+    - 2.2:
+        non_striker: RA Jadeja
+        bowler: PP Hinge
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Parag
+    - 2.3:
+        non_striker: RA Jadeja
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Parag
+    - 2.4:
+        non_striker: RA Jadeja
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Parag
+    - 2.5:
+        non_striker: RA Jadeja
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Parag
+    - 2.6:
+        non_striker: RA Jadeja
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Parag
+    - 2.7:
+        non_striker: RA Jadeja
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Parag
+        wicket:
+          player_out: R Parag
+          fielders:
+          - Abhishek Sharma
+          kind: caught
+    - 3.1:
+        non_striker: D Ferreira
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja
+    - 3.2:
+        non_striker: RA Jadeja
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+    - 3.3:
+        non_striker: RA Jadeja
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 3.4:
+        non_striker: D Ferreira
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RA Jadeja
+    - 3.5:
+        non_striker: D Ferreira
+        bowler: Sakib Hussain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RA Jadeja
+    - 3.6:
+        non_striker: D Ferreira
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 3.7:
+        non_striker: D Ferreira
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RA Jadeja
+    - 4.1:
+        non_striker: RA Jadeja
+        bowler: PP Hinge
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Ferreira
+    - 4.2:
+        non_striker: RA Jadeja
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+    - 4.3:
+        non_striker: RA Jadeja
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+    - 4.4:
+        non_striker: RA Jadeja
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Ferreira
+    - 4.5:
+        non_striker: RA Jadeja
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+    - 4.6:
+        non_striker: RA Jadeja
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ferreira
+    - 4.7:
+        non_striker: RA Jadeja
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 5.1:
+        non_striker: RA Jadeja
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+    - 5.2:
+        non_striker: RA Jadeja
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 5.3:
+        non_striker: D Ferreira
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RA Jadeja
+    - 5.4:
+        non_striker: D Ferreira
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja
+    - 5.5:
+        non_striker: RA Jadeja
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 5.6:
+        non_striker: D Ferreira
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja
+    - 6.1:
+        non_striker: D Ferreira
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 6.2:
+        non_striker: D Ferreira
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja
+    - 6.3:
+        non_striker: RA Jadeja
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+    - 6.4:
+        non_striker: RA Jadeja
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Ferreira
+    - 6.5:
+        non_striker: RA Jadeja
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ferreira
+    - 6.6:
+        non_striker: RA Jadeja
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ferreira
+    - 7.1:
+        non_striker: D Ferreira
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RA Jadeja
+    - 7.2:
+        non_striker: D Ferreira
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RA Jadeja
+    - 7.3:
+        non_striker: D Ferreira
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 7.4:
+        non_striker: D Ferreira
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja
+    - 7.5:
+        non_striker: RA Jadeja
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+    - 7.6:
+        non_striker: RA Jadeja
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Ferreira
+    - 7.7:
+        non_striker: RA Jadeja
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 8.1:
+        non_striker: RA Jadeja
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+    - 8.2:
+        non_striker: RA Jadeja
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 8.3:
+        non_striker: D Ferreira
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 8.4:
+        non_striker: D Ferreira
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja
+    - 8.5:
+        non_striker: RA Jadeja
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 8.6:
+        non_striker: D Ferreira
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja
+    - 9.1:
+        non_striker: D Ferreira
+        bowler: Harsh Dubey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RA Jadeja
+    - 9.2:
+        non_striker: D Ferreira
+        bowler: Harsh Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja
+    - 9.3:
+        non_striker: RA Jadeja
+        bowler: Harsh Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 9.4:
+        non_striker: D Ferreira
+        bowler: Harsh Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 9.5:
+        non_striker: D Ferreira
+        bowler: Harsh Dubey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RA Jadeja
+    - 9.6:
+        non_striker: D Ferreira
+        bowler: Harsh Dubey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RA Jadeja
+    - 9.7:
+        non_striker: D Ferreira
+        bowler: Harsh Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja
+    - 9.8:
+        non_striker: RA Jadeja
+        bowler: Harsh Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 10.1:
+        non_striker: RA Jadeja
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+    - 10.2:
+        non_striker: RA Jadeja
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Ferreira
+    - 10.3:
+        non_striker: RA Jadeja
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 10.4:
+        non_striker: D Ferreira
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja
+    - 10.5:
+        non_striker: RA Jadeja
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ferreira
+    - 10.6:
+        non_striker: RA Jadeja
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 11.1:
+        non_striker: RA Jadeja
+        bowler: Harsh Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+    - 11.2:
+        non_striker: RA Jadeja
+        bowler: Harsh Dubey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ferreira
+    - 11.3:
+        non_striker: RA Jadeja
+        bowler: Harsh Dubey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ferreira
+    - 11.4:
+        non_striker: RA Jadeja
+        bowler: Harsh Dubey
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Ferreira
+    - 11.5:
+        non_striker: RA Jadeja
+        bowler: Harsh Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+    - 11.6:
+        non_striker: RA Jadeja
+        bowler: Harsh Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+    - 12.1:
+        non_striker: D Ferreira
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RA Jadeja
+    - 12.2:
+        non_striker: D Ferreira
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RA Jadeja
+    - 12.3:
+        non_striker: D Ferreira
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja
+    - 12.4:
+        non_striker: RA Jadeja
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+    - 12.5:
+        non_striker: RA Jadeja
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          non_boundary: 1
+          total: 4
+          batsman: 4
+        batsman: D Ferreira
+    - 12.6:
+        non_striker: RA Jadeja
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 13.1:
+        non_striker: RA Jadeja
+        bowler: E Malinga
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: D Ferreira
+    - 13.2:
+        non_striker: D Ferreira
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja
+    - 13.3:
+        non_striker: RA Jadeja
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 13.4:
+        non_striker: D Ferreira
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RA Jadeja
+    - 13.5:
+        non_striker: D Ferreira
+        bowler: E Malinga
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RA Jadeja
+    - 13.6:
+        non_striker: D Ferreira
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RA Jadeja
+    - 13.7:
+        non_striker: D Ferreira
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja
+    - 14.1:
+        non_striker: D Ferreira
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja
+    - 14.2:
+        non_striker: RA Jadeja
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+    - 14.3:
+        non_striker: RA Jadeja
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+    - 14.4:
+        non_striker: RA Jadeja
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ferreira
+    - 14.5:
+        non_striker: RA Jadeja
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Ferreira
+    - 14.6:
+        non_striker: RA Jadeja
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+        wicket:
+          player_out: D Ferreira
+          kind: bowled
+    - 15.1:
+        non_striker: JC Archer
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja
+    - 15.2:
+        non_striker: RA Jadeja
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Archer
+    - 15.3:
+        non_striker: JC Archer
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+        wicket:
+          player_out: RA Jadeja
+          fielders:
+          - S Arora
+          kind: caught
+    - 15.4:
+        non_striker: JC Archer
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TU Deshpande
+    - 15.5:
+        non_striker: JC Archer
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TU Deshpande
+    - 15.6:
+        non_striker: JC Archer
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TU Deshpande
+    - 16.1:
+        non_striker: TU Deshpande
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Archer
+    - 16.2:
+        non_striker: TU Deshpande
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Archer
+    - 16.3:
+        non_striker: TU Deshpande
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Archer
+    - 16.4:
+        non_striker: JC Archer
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TU Deshpande
+    - 16.5:
+        non_striker: TU Deshpande
+        bowler: Sakib Hussain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JC Archer
+    - 16.6:
+        non_striker: TU Deshpande
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Archer
+        wicket:
+          player_out: JC Archer
+          fielders:
+          - PP Hinge
+          kind: caught
+    - 16.7:
+        non_striker: TU Deshpande
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ravi Bishnoi
+        wicket:
+          player_out: Ravi Bishnoi
+          fielders:
+          - Ishan Kishan
+          kind: caught
+    - 17.1:
+        non_striker: N Burger
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TU Deshpande
+    - 17.2:
+        non_striker: N Burger
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TU Deshpande
+    - 17.3:
+        non_striker: TU Deshpande
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Burger
+    - 17.4:
+        non_striker: TU Deshpande
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Burger
+    - 17.5:
+        non_striker: N Burger
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TU Deshpande
+    - 17.6:
+        non_striker: N Burger
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TU Deshpande
+    - 18.1:
+        non_striker: TU Deshpande
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Burger
+    - 18.2:
+        non_striker: TU Deshpande
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Burger
+    - 18.3:
+        non_striker: N Burger
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TU Deshpande
+    - 18.4:
+        non_striker: N Burger
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TU Deshpande
+    - 18.5:
+        non_striker: TU Deshpande
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Burger
+    - 18.6:
+        non_striker: N Burger
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TU Deshpande
+        wicket:
+          player_out: TU Deshpande
+          fielders:
+          - Ishan Kishan
+          kind: caught

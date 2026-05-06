@@ -1,0 +1,2207 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-04-20'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bengaluru
+  competition: IPL
+  dates:
+  - '2026-04-18'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Delhi Capitals
+    by:
+      wickets: 6
+  overs: 20
+  player_of_match:
+  - T Stubbs
+  players:
+    Royal Challengers Bengaluru:
+    - PD Salt
+    - V Kohli
+    - D Padikkal
+    - RM Patidar
+    - TH David
+    - JM Sharma
+    - R Shepherd
+    - KH Pandya
+    - Rasikh Salam
+    - B Kumar
+    - Suyash Sharma
+    - JR Hazlewood
+    Delhi Capitals:
+    - Mukesh Kumar
+    - P Nissanka
+    - KL Rahul
+    - KK Nair
+    - Sameer Rizvi
+    - T Stubbs
+    - AR Patel
+    - DA Miller
+    - Auqib Nabi
+    - L Ngidi
+    - Kuldeep Yadav
+    - T Natarajan
+  registry:
+    people:
+      A Totre: b1d7d7bc
+      AR Patel: 2e171977
+      Abhijit Bhattacharya: 59ec9638
+      Auqib Nabi: 7c3c0337
+      B Kumar: 2e81a32d
+      Bhavesh Patel: ee03dc30
+      D Padikkal: 2c25d4f5
+      DA Miller: d67d5f00
+      JM Sharma: 800d2d97
+      JR Hazlewood: '03806cf8'
+      KH Pandya: 5b8c830e
+      KK Nair: 944533a5
+      KL Rahul: b17e2f24
+      KN Ananthapadmanabhan: 3144063a
+      Kuldeep Yadav: 8d2c70ad
+      L Ngidi: f834dcfc
+      Mukesh Kumar: 2cffab74
+      P Nissanka: 8ee36b18
+      PD Salt: 3d284ca3
+      Prakash Bhatt: f848ab0b
+      R Shepherd: c5aef772
+      RM Patidar: c740ea83
+      Rasikh Salam: b8527c3d
+      Sameer Rizvi: f89d3b11
+      Suyash Sharma: 9440ef41
+      T Natarajan: ce794613
+      T Stubbs: 85b3fab2
+      TH David: f1f99156
+      V Kohli: ba607b88
+  teams:
+  - Royal Challengers Bengaluru
+  - Delhi Capitals
+  toss:
+    winner: Delhi Capitals
+    decision: field
+  umpires:
+  - Abhijit Bhattacharya
+  - Bhavesh Patel
+  venue: M Chinnaswamy Stadium, Bengaluru
+innings:
+- 1st innings:
+    team: Royal Challengers Bengaluru
+    deliveries:
+    - 0.1:
+        non_striker: V Kohli
+        bowler: Auqib Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 0.2:
+        non_striker: PD Salt
+        bowler: Auqib Nabi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Kohli
+    - 0.3:
+        non_striker: PD Salt
+        bowler: Auqib Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 0.4:
+        non_striker: V Kohli
+        bowler: Auqib Nabi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PD Salt
+    - 0.5:
+        non_striker: V Kohli
+        bowler: Auqib Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 0.6:
+        non_striker: PD Salt
+        bowler: Auqib Nabi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 0.7:
+        non_striker: PD Salt
+        bowler: Auqib Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 1.1:
+        non_striker: PD Salt
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 1.2:
+        non_striker: V Kohli
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+    - 1.3:
+        non_striker: V Kohli
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 1.4:
+        non_striker: PD Salt
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 1.5:
+        non_striker: PD Salt
+        bowler: Mukesh Kumar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Kohli
+    - 1.6:
+        non_striker: PD Salt
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 1.7:
+        non_striker: V Kohli
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+    - 2.1:
+        non_striker: PD Salt
+        bowler: Auqib Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 2.2:
+        non_striker: V Kohli
+        bowler: Auqib Nabi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PD Salt
+    - 2.3:
+        non_striker: V Kohli
+        bowler: Auqib Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+    - 2.4:
+        non_striker: V Kohli
+        bowler: Auqib Nabi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PD Salt
+    - 2.5:
+        non_striker: PD Salt
+        bowler: Auqib Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 2.6:
+        non_striker: V Kohli
+        bowler: Auqib Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 3.1:
+        non_striker: V Kohli
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PD Salt
+    - 3.2:
+        non_striker: V Kohli
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+    - 3.3:
+        non_striker: V Kohli
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 3.4:
+        non_striker: PD Salt
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 3.5:
+        non_striker: PD Salt
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 3.6:
+        non_striker: PD Salt
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 4.1:
+        non_striker: V Kohli
+        bowler: Auqib Nabi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PD Salt
+    - 4.2:
+        non_striker: V Kohli
+        bowler: Auqib Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 4.3:
+        non_striker: PD Salt
+        bowler: Auqib Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 4.4:
+        non_striker: V Kohli
+        bowler: Auqib Nabi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PD Salt
+    - 4.5:
+        non_striker: V Kohli
+        bowler: Auqib Nabi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PD Salt
+    - 4.6:
+        non_striker: V Kohli
+        bowler: Auqib Nabi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PD Salt
+    - 5.1:
+        non_striker: PD Salt
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+        wicket:
+          player_out: V Kohli
+          fielders:
+          - P Nissanka
+          kind: caught
+    - 5.2:
+        non_striker: PD Salt
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Padikkal
+    - 5.3:
+        non_striker: D Padikkal
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PD Salt
+    - 5.4:
+        non_striker: D Padikkal
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+    - 5.5:
+        non_striker: D Padikkal
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PD Salt
+    - 5.6:
+        non_striker: D Padikkal
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PD Salt
+    - 6.1:
+        non_striker: PD Salt
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Padikkal
+    - 6.2:
+        non_striker: D Padikkal
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 6.3:
+        non_striker: PD Salt
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Padikkal
+    - 6.4:
+        non_striker: D Padikkal
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 6.5:
+        non_striker: PD Salt
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Padikkal
+    - 6.6:
+        non_striker: D Padikkal
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 7.1:
+        non_striker: D Padikkal
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PD Salt
+    - 7.2:
+        non_striker: D Padikkal
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 7.3:
+        non_striker: PD Salt
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Padikkal
+    - 7.4:
+        non_striker: PD Salt
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Padikkal
+    - 7.5:
+        non_striker: PD Salt
+        bowler: T Natarajan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Padikkal
+    - 7.6:
+        non_striker: PD Salt
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Padikkal
+    - 7.7:
+        non_striker: D Padikkal
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 8.1:
+        non_striker: D Padikkal
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PD Salt
+    - 8.2:
+        non_striker: D Padikkal
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PD Salt
+    - 8.3:
+        non_striker: D Padikkal
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 8.4:
+        non_striker: PD Salt
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: D Padikkal
+    - 8.5:
+        non_striker: D Padikkal
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 8.6:
+        non_striker: PD Salt
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Padikkal
+    - 9.1:
+        non_striker: D Padikkal
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 9.2:
+        non_striker: PD Salt
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Padikkal
+    - 9.3:
+        non_striker: PD Salt
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Padikkal
+    - 9.4:
+        non_striker: PD Salt
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Padikkal
+    - 9.5:
+        non_striker: D Padikkal
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 9.6:
+        non_striker: PD Salt
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Padikkal
+        wicket:
+          player_out: D Padikkal
+          fielders:
+          - DA Miller
+          kind: caught
+    - 10.1:
+        non_striker: RM Patidar
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PD Salt
+    - 10.2:
+        non_striker: RM Patidar
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+    - 10.3:
+        non_striker: RM Patidar
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+    - 10.4:
+        non_striker: RM Patidar
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+        wicket:
+          player_out: PD Salt
+          fielders:
+          - T Stubbs
+          kind: caught
+    - 10.5:
+        non_striker: RM Patidar
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TH David
+    - 10.6:
+        non_striker: RM Patidar
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 11.1:
+        non_striker: RM Patidar
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 11.2:
+        non_striker: RM Patidar
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TH David
+    - 11.3:
+        non_striker: RM Patidar
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 11.4:
+        non_striker: RM Patidar
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 11.5:
+        non_striker: TH David
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Patidar
+    - 11.6:
+        non_striker: RM Patidar
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TH David
+    - 12.1:
+        non_striker: TH David
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Patidar
+    - 12.2:
+        non_striker: RM Patidar
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 12.3:
+        non_striker: TH David
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RM Patidar
+    - 12.4:
+        non_striker: TH David
+        bowler: Mukesh Kumar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RM Patidar
+    - 12.5:
+        non_striker: TH David
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Patidar
+        wicket:
+          player_out: RM Patidar
+          fielders:
+          - KL Rahul
+          kind: caught
+    - 12.6:
+        non_striker: TH David
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Sharma
+    - 12.7:
+        non_striker: TH David
+        bowler: Mukesh Kumar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JM Sharma
+    - 12.8:
+        non_striker: TH David
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Sharma
+    - 13.1:
+        non_striker: JM Sharma
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TH David
+    - 13.2:
+        non_striker: JM Sharma
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 13.3:
+        non_striker: TH David
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Sharma
+    - 13.4:
+        non_striker: TH David
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Sharma
+    - 13.5:
+        non_striker: TH David
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Sharma
+    - 13.6:
+        non_striker: JM Sharma
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 14.1:
+        non_striker: JM Sharma
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 14.2:
+        non_striker: TH David
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Sharma
+    - 14.3:
+        non_striker: JM Sharma
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 14.4:
+        non_striker: JM Sharma
+        bowler: Mukesh Kumar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TH David
+    - 14.5:
+        non_striker: JM Sharma
+        bowler: Mukesh Kumar
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: TH David
+    - 14.6:
+        non_striker: TH David
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Sharma
+    - 14.7:
+        non_striker: JM Sharma
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 14.8:
+        non_striker: TH David
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Sharma
+    - 15.1:
+        non_striker: JM Sharma
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 15.2:
+        non_striker: JM Sharma
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+        wicket:
+          player_out: TH David
+          fielders:
+          - T Natarajan
+          kind: caught
+    - 15.3:
+        non_striker: JM Sharma
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Shepherd
+    - 15.4:
+        non_striker: JM Sharma
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Shepherd
+    - 15.5:
+        non_striker: R Shepherd
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Sharma
+    - 15.6:
+        non_striker: JM Sharma
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Shepherd
+    - 16.1:
+        non_striker: R Shepherd
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Sharma
+    - 16.2:
+        non_striker: R Shepherd
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Sharma
+    - 16.3:
+        non_striker: JM Sharma
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Shepherd
+        wicket:
+          player_out: R Shepherd
+          kind: lbw
+    - 16.4:
+        non_striker: JM Sharma
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Pandya
+    - 16.5:
+        non_striker: KH Pandya
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Sharma
+    - 16.6:
+        non_striker: JM Sharma
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KH Pandya
+    - 16.7:
+        non_striker: JM Sharma
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Pandya
+    - 17.1:
+        non_striker: JM Sharma
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Pandya
+    - 17.2:
+        non_striker: KH Pandya
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Sharma
+    - 17.3:
+        non_striker: KH Pandya
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Sharma
+    - 17.4:
+        non_striker: JM Sharma
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Pandya
+    - 17.5:
+        non_striker: KH Pandya
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Sharma
+    - 17.6:
+        non_striker: JM Sharma
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KH Pandya
+    - 18.1:
+        non_striker: KH Pandya
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Sharma
+    - 18.2:
+        non_striker: JM Sharma
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Pandya
+    - 18.3:
+        non_striker: JM Sharma
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Pandya
+    - 18.4:
+        non_striker: JM Sharma
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Pandya
+    - 18.5:
+        non_striker: JM Sharma
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Pandya
+    - 18.6:
+        non_striker: KH Pandya
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Sharma
+    - 19.1:
+        non_striker: JM Sharma
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Pandya
+    - 19.2:
+        non_striker: KH Pandya
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Sharma
+    - 19.3:
+        non_striker: JM Sharma
+        bowler: L Ngidi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KH Pandya
+        wicket:
+          player_out: KH Pandya
+          fielders:
+          - KL Rahul
+          - L Ngidi
+          kind: run out
+    - 19.4:
+        non_striker: Rasikh Salam
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: Rasikh Salam
+            out: D Padikkal
+            team: Royal Challengers Bengaluru
+            reason: impact_player
+        batsman: JM Sharma
+    - 19.5:
+        non_striker: Rasikh Salam
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Sharma
+        wicket:
+          player_out: JM Sharma
+          fielders:
+          - DA Miller
+          kind: caught
+    - 19.6:
+        non_striker: Rasikh Salam
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Kumar
+    - 19.7:
+        non_striker: Rasikh Salam
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Kumar
+- 2nd innings:
+    team: Delhi Capitals
+    deliveries:
+    - 0.1:
+        non_striker: KL Rahul
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 0.2:
+        non_striker: P Nissanka
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 0.3:
+        non_striker: P Nissanka
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 0.4:
+        non_striker: KL Rahul
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+        wicket:
+          player_out: P Nissanka
+          kind: lbw
+    - 0.5:
+        non_striker: KL Rahul
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: KK Nair
+            out: Mukesh Kumar
+            team: Delhi Capitals
+            reason: impact_player
+        batsman: KK Nair
+    - 0.6:
+        non_striker: KL Rahul
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Nair
+    - 1.1:
+        non_striker: KK Nair
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KL Rahul
+    - 1.2:
+        non_striker: KK Nair
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 1.3:
+        non_striker: KL Rahul
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KK Nair
+    - 1.4:
+        non_striker: KL Rahul
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Nair
+    - 1.5:
+        non_striker: KK Nair
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 1.6:
+        non_striker: KK Nair
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 2.1:
+        non_striker: KK Nair
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 2.2:
+        non_striker: KL Rahul
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Nair
+        wicket:
+          player_out: KK Nair
+          fielders:
+          - PD Salt
+          kind: caught
+    - 2.3:
+        non_striker: KL Rahul
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sameer Rizvi
+    - 2.4:
+        non_striker: KL Rahul
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sameer Rizvi
+    - 2.5:
+        non_striker: KL Rahul
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sameer Rizvi
+        wicket:
+          player_out: Sameer Rizvi
+          fielders:
+          - JM Sharma
+          kind: caught
+    - 2.6:
+        non_striker: KL Rahul
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Stubbs
+    - 3.1:
+        non_striker: T Stubbs
+        bowler: Rasikh Salam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KL Rahul
+    - 3.2:
+        non_striker: T Stubbs
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 3.3:
+        non_striker: T Stubbs
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 3.4:
+        non_striker: KL Rahul
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 3.5:
+        non_striker: KL Rahul
+        bowler: Rasikh Salam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Stubbs
+    - 3.6:
+        non_striker: KL Rahul
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 3.7:
+        non_striker: KL Rahul
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 3.8:
+        non_striker: T Stubbs
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 4.1:
+        non_striker: T Stubbs
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KL Rahul
+    - 4.2:
+        non_striker: T Stubbs
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 4.3:
+        non_striker: T Stubbs
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 4.4:
+        non_striker: T Stubbs
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 4.5:
+        non_striker: T Stubbs
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 4.6:
+        non_striker: T Stubbs
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 5.1:
+        non_striker: KL Rahul
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 5.2:
+        non_striker: T Stubbs
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 5.3:
+        non_striker: T Stubbs
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 5.4:
+        non_striker: KL Rahul
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Stubbs
+    - 5.5:
+        non_striker: KL Rahul
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 5.6:
+        non_striker: KL Rahul
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 6.1:
+        non_striker: KL Rahul
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 6.2:
+        non_striker: T Stubbs
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 6.3:
+        non_striker: KL Rahul
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 6.4:
+        non_striker: T Stubbs
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 6.5:
+        non_striker: KL Rahul
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Stubbs
+    - 6.6:
+        non_striker: KL Rahul
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 7.1:
+        non_striker: T Stubbs
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KL Rahul
+    - 7.2:
+        non_striker: T Stubbs
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 7.3:
+        non_striker: T Stubbs
+        bowler: Suyash Sharma
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: KL Rahul
+    - 7.4:
+        non_striker: T Stubbs
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 7.5:
+        non_striker: T Stubbs
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 7.6:
+        non_striker: KL Rahul
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 8.1:
+        non_striker: KL Rahul
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 8.2:
+        non_striker: T Stubbs
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 8.3:
+        non_striker: KL Rahul
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 8.4:
+        non_striker: T Stubbs
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 8.5:
+        non_striker: KL Rahul
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 8.6:
+        non_striker: T Stubbs
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 9.1:
+        non_striker: T Stubbs
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 9.2:
+        non_striker: KL Rahul
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 9.3:
+        non_striker: T Stubbs
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KL Rahul
+    - 9.4:
+        non_striker: T Stubbs
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 9.5:
+        non_striker: T Stubbs
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KL Rahul
+    - 9.6:
+        non_striker: T Stubbs
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 10.1:
+        non_striker: T Stubbs
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+        wicket:
+          player_out: KL Rahul
+          fielders:
+          - V Kohli
+          kind: caught
+    - 10.2:
+        non_striker: T Stubbs
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Patel
+    - 10.3:
+        non_striker: T Stubbs
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patel
+    - 10.4:
+        non_striker: T Stubbs
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AR Patel
+    - 10.5:
+        non_striker: T Stubbs
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patel
+    - 10.6:
+        non_striker: AR Patel
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 11.1:
+        non_striker: T Stubbs
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patel
+    - 11.2:
+        non_striker: AR Patel
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 11.3:
+        non_striker: AR Patel
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 11.4:
+        non_striker: T Stubbs
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patel
+    - 11.5:
+        non_striker: T Stubbs
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Patel
+    - 11.6:
+        non_striker: T Stubbs
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patel
+    - 12.1:
+        non_striker: T Stubbs
+        bowler: Rasikh Salam
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: AR Patel
+    - 12.2:
+        non_striker: T Stubbs
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AR Patel
+    - 12.3:
+        non_striker: T Stubbs
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patel
+    - 12.4:
+        non_striker: AR Patel
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 12.5:
+        non_striker: T Stubbs
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patel
+    - 12.6:
+        non_striker: AR Patel
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Stubbs
+    - 12.7:
+        non_striker: AR Patel
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Stubbs
+    - 13.1:
+        non_striker: T Stubbs
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patel
+    - 13.2:
+        non_striker: AR Patel
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 13.3:
+        non_striker: AR Patel
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Stubbs
+    - 13.4:
+        non_striker: AR Patel
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Stubbs
+    - 13.5:
+        non_striker: AR Patel
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 13.6:
+        non_striker: AR Patel
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 14.1:
+        non_striker: AR Patel
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 14.2:
+        non_striker: T Stubbs
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patel
+    - 14.3:
+        non_striker: AR Patel
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 14.4:
+        non_striker: T Stubbs
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patel
+    - 14.5:
+        non_striker: AR Patel
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 14.6:
+        non_striker: T Stubbs
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patel
+    - 15.1:
+        non_striker: AR Patel
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 15.2:
+        non_striker: T Stubbs
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patel
+    - 15.3:
+        non_striker: T Stubbs
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patel
+    - 15.4:
+        non_striker: AR Patel
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 15.5:
+        non_striker: T Stubbs
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patel
+        wicket:
+          player_out: AR Patel
+          kind: retired hurt
+    - 15.6:
+        non_striker: DA Miller
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 16.1:
+        non_striker: DA Miller
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 16.2:
+        non_striker: T Stubbs
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 16.3:
+        non_striker: DA Miller
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 16.4:
+        non_striker: T Stubbs
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 16.5:
+        non_striker: DA Miller
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 16.6:
+        non_striker: DA Miller
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 17.1:
+        non_striker: T Stubbs
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 17.2:
+        non_striker: DA Miller
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 17.3:
+        non_striker: T Stubbs
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 17.4:
+        non_striker: DA Miller
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Stubbs
+    - 17.5:
+        non_striker: DA Miller
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Stubbs
+    - 17.6:
+        non_striker: DA Miller
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 18.1:
+        non_striker: DA Miller
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Stubbs
+    - 18.2:
+        non_striker: DA Miller
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 18.3:
+        non_striker: T Stubbs
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 18.4:
+        non_striker: DA Miller
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Stubbs
+    - 18.5:
+        non_striker: DA Miller
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 18.6:
+        non_striker: T Stubbs
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 19.1:
+        non_striker: T Stubbs
+        bowler: R Shepherd
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DA Miller
+    - 19.2:
+        non_striker: DA Miller
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 19.3:
+        non_striker: T Stubbs
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DA Miller
+    - 19.4:
+        non_striker: T Stubbs
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DA Miller
+    - 19.5:
+        non_striker: T Stubbs
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Miller

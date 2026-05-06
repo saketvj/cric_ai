@@ -1,0 +1,2069 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-04-06'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Delhi
+  competition: IPL
+  dates:
+  - '2026-04-04'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Delhi Capitals
+    by:
+      wickets: 6
+  overs: 20
+  player_of_match:
+  - Sameer Rizvi
+  players:
+    Mumbai Indians:
+    - M Markande
+    - RD Rickelton
+    - RG Sharma
+    - Tilak Varma
+    - SA Yadav
+    - SE Rutherford
+    - Naman Dhir
+    - MJ Santner
+    - C Bosch
+    - SN Thakur
+    - DL Chahar
+    - JJ Bumrah
+    Delhi Capitals:
+    - Mukesh Kumar
+    - KL Rahul
+    - P Nissanka
+    - N Rana
+    - Sameer Rizvi
+    - DA Miller
+    - T Stubbs
+    - V Nigam
+    - AR Patel
+    - Kuldeep Yadav
+    - L Ngidi
+    - T Natarajan
+  registry:
+    people:
+      AR Patel: 2e171977
+      C Bosch: 172dff15
+      DA Miller: d67d5f00
+      DL Chahar: 23eeb873
+      HDPK Dharmasena: 323e4c16
+      JJ Bumrah: 462411b3
+      K Swaroopanand: aa2a4962
+      KL Rahul: b17e2f24
+      Kuldeep Yadav: 8d2c70ad
+      L Ngidi: f834dcfc
+      M Krishnadas: e298c588
+      M Markande: a9fd84fb
+      MJ Santner: e4a0deae
+      Mukesh Kumar: 2cffab74
+      N Rana: fb2d1dda
+      Naman Dhir: fffa744b
+      P Nissanka: 8ee36b18
+      RD Rickelton: e66732f8
+      RG Sharma: 740742ef
+      SA Yadav: 271f83cd
+      SE Rutherford: d014d5ac
+      SN Thakur: 1abb78f8
+      Sameer Rizvi: f89d3b11
+      T Natarajan: ce794613
+      T Stubbs: 85b3fab2
+      Tilak Varma: b0482a1d
+      V Narayan Kutty: 4bacee3d
+      V Nigam: 5ffc0565
+      VK Sharma: a7a49df4
+  teams:
+  - Mumbai Indians
+  - Delhi Capitals
+  toss:
+    winner: Delhi Capitals
+    decision: field
+  umpires:
+  - HDPK Dharmasena
+  - M Krishnadas
+  venue: Arun Jaitley Stadium, Delhi
+innings:
+- 1st innings:
+    team: Mumbai Indians
+    deliveries:
+    - 0.1:
+        non_striker: RG Sharma
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Rickelton
+    - 0.2:
+        non_striker: RG Sharma
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 0.3:
+        non_striker: RG Sharma
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 0.4:
+        non_striker: RG Sharma
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Rickelton
+    - 0.5:
+        non_striker: RG Sharma
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 0.6:
+        non_striker: RG Sharma
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 1.1:
+        non_striker: RD Rickelton
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RG Sharma
+    - 1.2:
+        non_striker: RD Rickelton
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 1.3:
+        non_striker: RD Rickelton
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RG Sharma
+    - 1.4:
+        non_striker: RD Rickelton
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 1.5:
+        non_striker: RG Sharma
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 1.6:
+        non_striker: RG Sharma
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 2.1:
+        non_striker: RG Sharma
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 2.2:
+        non_striker: RG Sharma
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 2.3:
+        non_striker: RG Sharma
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+        wicket:
+          player_out: RD Rickelton
+          fielders:
+          - AR Patel
+          kind: caught
+    - 2.4:
+        non_striker: RG Sharma
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 2.5:
+        non_striker: RG Sharma
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+        wicket:
+          player_out: Tilak Varma
+          kind: caught and bowled
+    - 2.6:
+        non_striker: RG Sharma
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 3.1:
+        non_striker: SA Yadav
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 3.2:
+        non_striker: RG Sharma
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 3.3:
+        non_striker: SA Yadav
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 3.4:
+        non_striker: SA Yadav
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 3.5:
+        non_striker: RG Sharma
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 3.6:
+        non_striker: RG Sharma
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 4.1:
+        non_striker: SA Yadav
+        bowler: V Nigam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RG Sharma
+    - 4.2:
+        non_striker: SA Yadav
+        bowler: V Nigam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 4.3:
+        non_striker: RG Sharma
+        bowler: V Nigam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 4.4:
+        non_striker: RG Sharma
+        bowler: V Nigam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 4.5:
+        non_striker: RG Sharma
+        bowler: V Nigam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 4.6:
+        non_striker: RG Sharma
+        bowler: V Nigam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 4.7:
+        non_striker: SA Yadav
+        bowler: V Nigam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 5.1:
+        non_striker: RG Sharma
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 5.2:
+        non_striker: SA Yadav
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 5.3:
+        non_striker: SA Yadav
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 5.4:
+        non_striker: SA Yadav
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RG Sharma
+    - 5.5:
+        non_striker: SA Yadav
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RG Sharma
+    - 5.6:
+        non_striker: SA Yadav
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 6.1:
+        non_striker: RG Sharma
+        bowler: V Nigam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Yadav
+    - 6.2:
+        non_striker: RG Sharma
+        bowler: V Nigam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 6.3:
+        non_striker: SA Yadav
+        bowler: V Nigam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 6.4:
+        non_striker: RG Sharma
+        bowler: V Nigam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 6.5:
+        non_striker: SA Yadav
+        bowler: V Nigam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 6.6:
+        non_striker: SA Yadav
+        bowler: V Nigam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RG Sharma
+    - 7.1:
+        non_striker: RG Sharma
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SA Yadav
+    - 7.2:
+        non_striker: RG Sharma
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 7.3:
+        non_striker: SA Yadav
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 7.4:
+        non_striker: RG Sharma
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 7.5:
+        non_striker: SA Yadav
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 7.6:
+        non_striker: SA Yadav
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 8.1:
+        non_striker: RG Sharma
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 8.2:
+        non_striker: SA Yadav
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 8.3:
+        non_striker: RG Sharma
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 8.4:
+        non_striker: SA Yadav
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RG Sharma
+    - 8.5:
+        non_striker: SA Yadav
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 8.6:
+        non_striker: SA Yadav
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 9.1:
+        non_striker: SA Yadav
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 9.2:
+        non_striker: RG Sharma
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 9.3:
+        non_striker: SA Yadav
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+        wicket:
+          player_out: RG Sharma
+          fielders:
+          - N Rana
+          kind: caught
+    - 9.4:
+        non_striker: SA Yadav
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 9.5:
+        non_striker: SA Yadav
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 9.6:
+        non_striker: SE Rutherford
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 10.1:
+        non_striker: SE Rutherford
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 10.2:
+        non_striker: SE Rutherford
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 10.3:
+        non_striker: SA Yadav
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SE Rutherford
+    - 10.4:
+        non_striker: SE Rutherford
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 10.5:
+        non_striker: SE Rutherford
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 10.6:
+        non_striker: SA Yadav
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SE Rutherford
+    - 11.1:
+        non_striker: SE Rutherford
+        bowler: V Nigam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 11.2:
+        non_striker: SE Rutherford
+        bowler: V Nigam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 11.3:
+        non_striker: SA Yadav
+        bowler: V Nigam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 11.4:
+        non_striker: SA Yadav
+        bowler: V Nigam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 11.5:
+        non_striker: SA Yadav
+        bowler: V Nigam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+        wicket:
+          player_out: SE Rutherford
+          fielders:
+          - Mukesh Kumar
+          kind: caught
+    - 11.6:
+        non_striker: SA Yadav
+        bowler: V Nigam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naman Dhir
+    - 12.1:
+        non_striker: SA Yadav
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naman Dhir
+    - 12.2:
+        non_striker: Naman Dhir
+        bowler: AR Patel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SA Yadav
+    - 12.3:
+        non_striker: Naman Dhir
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 12.4:
+        non_striker: SA Yadav
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naman Dhir
+    - 12.5:
+        non_striker: Naman Dhir
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 12.6:
+        non_striker: Naman Dhir
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 12.7:
+        non_striker: SA Yadav
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naman Dhir
+    - 13.1:
+        non_striker: SA Yadav
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Naman Dhir
+    - 13.2:
+        non_striker: SA Yadav
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naman Dhir
+    - 13.3:
+        non_striker: SA Yadav
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Naman Dhir
+    - 13.4:
+        non_striker: SA Yadav
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naman Dhir
+    - 13.5:
+        non_striker: SA Yadav
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naman Dhir
+    - 13.6:
+        non_striker: Naman Dhir
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 14.1:
+        non_striker: Naman Dhir
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SA Yadav
+    - 14.2:
+        non_striker: Naman Dhir
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Yadav
+    - 14.3:
+        non_striker: Naman Dhir
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 14.4:
+        non_striker: SA Yadav
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Naman Dhir
+    - 14.5:
+        non_striker: SA Yadav
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naman Dhir
+    - 14.6:
+        non_striker: Naman Dhir
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 15.1:
+        non_striker: Naman Dhir
+        bowler: L Ngidi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SA Yadav
+    - 15.2:
+        non_striker: Naman Dhir
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Yadav
+    - 15.3:
+        non_striker: Naman Dhir
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Yadav
+    - 15.4:
+        non_striker: Naman Dhir
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+        wicket:
+          player_out: SA Yadav
+          kind: lbw
+    - 15.5:
+        non_striker: Naman Dhir
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 15.6:
+        non_striker: Naman Dhir
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 15.7:
+        non_striker: MJ Santner
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naman Dhir
+    - 16.1:
+        non_striker: MJ Santner
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naman Dhir
+    - 16.2:
+        non_striker: Naman Dhir
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 16.3:
+        non_striker: MJ Santner
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Naman Dhir
+    - 16.4:
+        non_striker: MJ Santner
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naman Dhir
+    - 16.5:
+        non_striker: Naman Dhir
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Santner
+    - 16.6:
+        non_striker: Naman Dhir
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 17.1:
+        non_striker: Naman Dhir
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 17.2:
+        non_striker: MJ Santner
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naman Dhir
+    - 17.3:
+        non_striker: Naman Dhir
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 17.4:
+        non_striker: MJ Santner
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naman Dhir
+    - 17.5:
+        non_striker: MJ Santner
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naman Dhir
+    - 17.6:
+        non_striker: Naman Dhir
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Santner
+    - 18.1:
+        non_striker: MJ Santner
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naman Dhir
+    - 18.2:
+        non_striker: MJ Santner
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naman Dhir
+    - 18.3:
+        non_striker: Naman Dhir
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 18.4:
+        non_striker: MJ Santner
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naman Dhir
+        wicket:
+          player_out: Naman Dhir
+          fielders:
+          - T Stubbs
+          kind: caught
+    - 18.5:
+        non_striker: MJ Santner
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bosch
+    - 18.6:
+        non_striker: C Bosch
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 19.1:
+        non_striker: C Bosch
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 19.2:
+        non_striker: C Bosch
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Santner
+    - 19.3:
+        non_striker: C Bosch
+        bowler: Mukesh Kumar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MJ Santner
+    - 19.4:
+        non_striker: C Bosch
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 19.5:
+        non_striker: MJ Santner
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Bosch
+    - 19.6:
+        non_striker: MJ Santner
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Bosch
+    - 19.7:
+        non_striker: MJ Santner
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Bosch
+- 2nd innings:
+    team: Delhi Capitals
+    deliveries:
+    - 0.1:
+        non_striker: P Nissanka
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 0.2:
+        non_striker: KL Rahul
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 0.3:
+        non_striker: P Nissanka
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 0.4:
+        non_striker: P Nissanka
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+        wicket:
+          player_out: KL Rahul
+          fielders:
+          - RD Rickelton
+          kind: caught
+    - 0.5:
+        non_striker: P Nissanka
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Rana
+    - 0.6:
+        non_striker: P Nissanka
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Rana
+    - 1.1:
+        non_striker: N Rana
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 1.2:
+        non_striker: N Rana
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 1.3:
+        non_striker: N Rana
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 1.4:
+        non_striker: P Nissanka
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Rana
+        wicket:
+          player_out: N Rana
+          fielders:
+          - JJ Bumrah
+          kind: run out
+    - 1.5:
+        non_striker: Sameer Rizvi
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        replacements:
+          match:
+          - in: Sameer Rizvi
+            out: Mukesh Kumar
+            team: Delhi Capitals
+            reason: impact_player
+        batsman: P Nissanka
+    - 1.6:
+        non_striker: P Nissanka
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sameer Rizvi
+    - 2.1:
+        non_striker: Sameer Rizvi
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 2.2:
+        non_striker: Sameer Rizvi
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 2.3:
+        non_striker: Sameer Rizvi
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 2.4:
+        non_striker: Sameer Rizvi
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 2.5:
+        non_striker: Sameer Rizvi
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 2.6:
+        non_striker: P Nissanka
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sameer Rizvi
+    - 3.1:
+        non_striker: Sameer Rizvi
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 3.2:
+        non_striker: Sameer Rizvi
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 3.3:
+        non_striker: Sameer Rizvi
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 3.4:
+        non_striker: Sameer Rizvi
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 3.5:
+        non_striker: P Nissanka
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sameer Rizvi
+    - 3.6:
+        non_striker: Sameer Rizvi
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 4.1:
+        non_striker: P Nissanka
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sameer Rizvi
+    - 4.2:
+        non_striker: Sameer Rizvi
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Nissanka
+    - 4.3:
+        non_striker: Sameer Rizvi
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 4.4:
+        non_striker: Sameer Rizvi
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 4.5:
+        non_striker: Sameer Rizvi
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 4.6:
+        non_striker: Sameer Rizvi
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 5.1:
+        non_striker: Sameer Rizvi
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: M Markande
+            out: RG Sharma
+            team: Mumbai Indians
+            reason: impact_player
+        batsman: P Nissanka
+    - 5.2:
+        non_striker: Sameer Rizvi
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 5.3:
+        non_striker: P Nissanka
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sameer Rizvi
+    - 5.4:
+        non_striker: P Nissanka
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sameer Rizvi
+    - 5.5:
+        non_striker: Sameer Rizvi
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 5.6:
+        non_striker: P Nissanka
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sameer Rizvi
+    - 6.1:
+        non_striker: Sameer Rizvi
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 6.2:
+        non_striker: P Nissanka
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sameer Rizvi
+    - 6.3:
+        non_striker: P Nissanka
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sameer Rizvi
+    - 6.4:
+        non_striker: P Nissanka
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sameer Rizvi
+    - 6.5:
+        non_striker: P Nissanka
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sameer Rizvi
+    - 6.6:
+        non_striker: P Nissanka
+        bowler: MJ Santner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Sameer Rizvi
+    - 7.1:
+        non_striker: P Nissanka
+        bowler: M Markande
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sameer Rizvi
+    - 7.2:
+        non_striker: Sameer Rizvi
+        bowler: M Markande
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 7.3:
+        non_striker: P Nissanka
+        bowler: M Markande
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sameer Rizvi
+    - 7.4:
+        non_striker: P Nissanka
+        bowler: M Markande
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sameer Rizvi
+    - 7.5:
+        non_striker: P Nissanka
+        bowler: M Markande
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sameer Rizvi
+    - 7.6:
+        non_striker: Sameer Rizvi
+        bowler: M Markande
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 7.7:
+        non_striker: P Nissanka
+        bowler: M Markande
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sameer Rizvi
+    - 8.1:
+        non_striker: P Nissanka
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sameer Rizvi
+    - 8.2:
+        non_striker: Sameer Rizvi
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 8.3:
+        non_striker: P Nissanka
+        bowler: C Bosch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sameer Rizvi
+    - 8.4:
+        non_striker: P Nissanka
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sameer Rizvi
+    - 8.5:
+        non_striker: P Nissanka
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sameer Rizvi
+    - 8.6:
+        non_striker: Sameer Rizvi
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 8.7:
+        non_striker: P Nissanka
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sameer Rizvi
+    - 9.1:
+        non_striker: P Nissanka
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sameer Rizvi
+    - 9.2:
+        non_striker: P Nissanka
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sameer Rizvi
+    - 9.3:
+        non_striker: Sameer Rizvi
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 9.4:
+        non_striker: P Nissanka
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sameer Rizvi
+    - 9.5:
+        non_striker: Sameer Rizvi
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+        wicket:
+          player_out: P Nissanka
+          fielders:
+          - M Markande
+          kind: caught
+    - 9.6:
+        non_striker: Sameer Rizvi
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 10.1:
+        non_striker: DA Miller
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sameer Rizvi
+    - 10.2:
+        non_striker: DA Miller
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sameer Rizvi
+    - 10.3:
+        non_striker: DA Miller
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sameer Rizvi
+    - 10.4:
+        non_striker: DA Miller
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sameer Rizvi
+    - 10.5:
+        non_striker: DA Miller
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sameer Rizvi
+    - 10.6:
+        non_striker: DA Miller
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sameer Rizvi
+    - 11.1:
+        non_striker: Sameer Rizvi
+        bowler: M Markande
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 11.2:
+        non_striker: DA Miller
+        bowler: M Markande
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sameer Rizvi
+    - 11.3:
+        non_striker: DA Miller
+        bowler: M Markande
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sameer Rizvi
+    - 11.4:
+        non_striker: DA Miller
+        bowler: M Markande
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sameer Rizvi
+    - 11.5:
+        non_striker: DA Miller
+        bowler: M Markande
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sameer Rizvi
+    - 11.6:
+        non_striker: DA Miller
+        bowler: M Markande
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sameer Rizvi
+    - 12.1:
+        non_striker: DA Miller
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sameer Rizvi
+    - 12.2:
+        non_striker: DA Miller
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sameer Rizvi
+    - 12.3:
+        non_striker: DA Miller
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sameer Rizvi
+    - 12.4:
+        non_striker: Sameer Rizvi
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 12.5:
+        non_striker: Sameer Rizvi
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 12.6:
+        non_striker: Sameer Rizvi
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 13.1:
+        non_striker: DA Miller
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sameer Rizvi
+    - 13.2:
+        non_striker: DA Miller
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sameer Rizvi
+    - 13.3:
+        non_striker: DA Miller
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sameer Rizvi
+    - 13.4:
+        non_striker: DA Miller
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sameer Rizvi
+    - 13.5:
+        non_striker: DA Miller
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sameer Rizvi
+    - 13.6:
+        non_striker: DA Miller
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sameer Rizvi
+    - 14.1:
+        non_striker: DA Miller
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sameer Rizvi
+    - 14.2:
+        non_striker: DA Miller
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sameer Rizvi
+    - 14.3:
+        non_striker: Sameer Rizvi
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 14.4:
+        non_striker: DA Miller
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sameer Rizvi
+    - 14.5:
+        non_striker: DA Miller
+        bowler: SN Thakur
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sameer Rizvi
+    - 14.6:
+        non_striker: DA Miller
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sameer Rizvi
+    - 14.7:
+        non_striker: DA Miller
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sameer Rizvi
+    - 15.1:
+        non_striker: Sameer Rizvi
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 15.2:
+        non_striker: DA Miller
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sameer Rizvi
+    - 15.3:
+        non_striker: Sameer Rizvi
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Miller
+    - 15.4:
+        non_striker: Sameer Rizvi
+        bowler: JJ Bumrah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DA Miller
+    - 15.5:
+        non_striker: Sameer Rizvi
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Miller
+    - 15.6:
+        non_striker: Sameer Rizvi
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 15.7:
+        non_striker: Sameer Rizvi
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 16.1:
+        non_striker: DA Miller
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sameer Rizvi
+    - 16.2:
+        non_striker: DA Miller
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sameer Rizvi
+        wicket:
+          player_out: Sameer Rizvi
+          fielders:
+          - Tilak Varma
+          kind: caught
+    - 16.3:
+        non_striker: DA Miller
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 16.4:
+        non_striker: T Stubbs
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 16.5:
+        non_striker: T Stubbs
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 16.6:
+        non_striker: T Stubbs
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 17.1:
+        non_striker: DA Miller
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 17.2:
+        non_striker: T Stubbs
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Miller
+    - 17.3:
+        non_striker: T Stubbs
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 17.4:
+        non_striker: DA Miller
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 17.5:
+        non_striker: T Stubbs
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 17.6:
+        non_striker: DA Miller
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 18.1:
+        non_striker: T Stubbs
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Miller

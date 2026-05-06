@@ -1,0 +1,2036 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-04-17'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Mumbai
+  competition: IPL
+  dates:
+  - '2026-04-16'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Punjab Kings
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - Arshdeep Singh
+  players:
+    Mumbai Indians:
+    - AM Ghazanfar
+    - RD Rickelton
+    - Q de Kock
+    - SA Yadav
+    - Naman Dhir
+    - HH Pandya
+    - SE Rutherford
+    - Tilak Varma
+    - Mayank Rawat
+    - SN Thakur
+    - DL Chahar
+    - JJ Bumrah
+    Punjab Kings:
+    - Priyansh Arya
+    - P Simran Singh
+    - C Connolly
+    - SS Iyer
+    - MP Stoinis
+    - Shashank Singh
+    - M Jansen
+    - XC Bartlett
+    - Vijaykumar Vyshak
+    - Arshdeep Singh
+    - YS Chahal
+  registry:
+    people:
+      AM Ghazanfar: 9ca68676
+      Arshdeep Singh: 244048f6
+      C Connolly: fe366f34
+      DL Chahar: 23eeb873
+      HAS Khalid: 291ded7c
+      HDPK Dharmasena: 323e4c16
+      HH Pandya: dbe50b21
+      JJ Bumrah: 462411b3
+      M Jansen: 81c36ee9
+      M Krishnadas: e298c588
+      MP Stoinis: d9273ee7
+      Mayank Rawat: 2b801189
+      Naman Dhir: fffa744b
+      P Simran Singh: 9418198b
+      Priyansh Arya: b5797845
+      Q de Kock: 372455c4
+      RD Rickelton: e66732f8
+      SA Yadav: 271f83cd
+      SE Rutherford: d014d5ac
+      SN Thakur: 1abb78f8
+      SS Iyer: 85ec8e33
+      Shashank Singh: 26989d80
+      Tilak Varma: b0482a1d
+      V Narayan Kutty: 4bacee3d
+      VK Sharma: a7a49df4
+      Vijaykumar Vyshak: 54e52590
+      XC Bartlett: 3b53243a
+      YS Chahal: 57ee1fde
+  teams:
+  - Mumbai Indians
+  - Punjab Kings
+  toss:
+    winner: Punjab Kings
+    decision: field
+  umpires:
+  - HDPK Dharmasena
+  - M Krishnadas
+  venue: Wankhede Stadium, Mumbai
+innings:
+- 1st innings:
+    team: Mumbai Indians
+    deliveries:
+    - 0.1:
+        non_striker: Q de Kock
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 0.2:
+        non_striker: Q de Kock
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 0.3:
+        non_striker: Q de Kock
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 0.4:
+        non_striker: Q de Kock
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 0.5:
+        non_striker: Q de Kock
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 0.6:
+        non_striker: Q de Kock
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 1.1:
+        non_striker: Q de Kock
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 1.2:
+        non_striker: RD Rickelton
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Q de Kock
+    - 1.3:
+        non_striker: RD Rickelton
+        bowler: M Jansen
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: Q de Kock
+    - 1.4:
+        non_striker: RD Rickelton
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 1.5:
+        non_striker: RD Rickelton
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 1.6:
+        non_striker: RD Rickelton
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 2.1:
+        non_striker: Q de Kock
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+        wicket:
+          player_out: RD Rickelton
+          fielders:
+          - Shashank Singh
+          kind: caught
+    - 2.2:
+        non_striker: Q de Kock
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+        wicket:
+          player_out: SA Yadav
+          fielders:
+          - YS Chahal
+          kind: caught
+    - 2.3:
+        non_striker: Q de Kock
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naman Dhir
+    - 2.4:
+        non_striker: Q de Kock
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Naman Dhir
+    - 2.5:
+        non_striker: Q de Kock
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naman Dhir
+    - 2.6:
+        non_striker: Q de Kock
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naman Dhir
+    - 3.1:
+        non_striker: Q de Kock
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naman Dhir
+    - 3.2:
+        non_striker: Q de Kock
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Naman Dhir
+    - 3.3:
+        non_striker: Q de Kock
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naman Dhir
+    - 3.4:
+        non_striker: Naman Dhir
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Q de Kock
+    - 3.5:
+        non_striker: Naman Dhir
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 3.6:
+        non_striker: Q de Kock
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Naman Dhir
+    - 4.1:
+        non_striker: Naman Dhir
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 4.2:
+        non_striker: Q de Kock
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naman Dhir
+    - 4.3:
+        non_striker: Naman Dhir
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 4.4:
+        non_striker: Naman Dhir
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 4.5:
+        non_striker: Naman Dhir
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 4.6:
+        non_striker: Q de Kock
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naman Dhir
+    - 5.1:
+        non_striker: Q de Kock
+        bowler: Vijaykumar Vyshak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naman Dhir
+    - 5.2:
+        non_striker: Q de Kock
+        bowler: Vijaykumar Vyshak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Naman Dhir
+    - 5.3:
+        non_striker: Q de Kock
+        bowler: Vijaykumar Vyshak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naman Dhir
+    - 5.4:
+        non_striker: Q de Kock
+        bowler: Vijaykumar Vyshak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Naman Dhir
+    - 5.5:
+        non_striker: Q de Kock
+        bowler: Vijaykumar Vyshak
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Naman Dhir
+    - 5.6:
+        non_striker: Q de Kock
+        bowler: Vijaykumar Vyshak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naman Dhir
+    - 6.1:
+        non_striker: Q de Kock
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Naman Dhir
+    - 6.2:
+        non_striker: Q de Kock
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naman Dhir
+    - 6.3:
+        non_striker: Naman Dhir
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Q de Kock
+    - 6.4:
+        non_striker: Naman Dhir
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 6.5:
+        non_striker: Naman Dhir
+        bowler: YS Chahal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Q de Kock
+    - 6.6:
+        non_striker: Naman Dhir
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 6.7:
+        non_striker: Naman Dhir
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 7.1:
+        non_striker: Naman Dhir
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 7.2:
+        non_striker: Q de Kock
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naman Dhir
+    - 7.3:
+        non_striker: Naman Dhir
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Q de Kock
+    - 7.4:
+        non_striker: Naman Dhir
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 7.5:
+        non_striker: Q de Kock
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naman Dhir
+    - 7.6:
+        non_striker: Naman Dhir
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 8.1:
+        non_striker: Naman Dhir
+        bowler: Vijaykumar Vyshak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 8.2:
+        non_striker: Naman Dhir
+        bowler: Vijaykumar Vyshak
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Q de Kock
+    - 8.3:
+        non_striker: Naman Dhir
+        bowler: Vijaykumar Vyshak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 8.4:
+        non_striker: Naman Dhir
+        bowler: Vijaykumar Vyshak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 8.5:
+        non_striker: Naman Dhir
+        bowler: Vijaykumar Vyshak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 8.6:
+        non_striker: Q de Kock
+        bowler: Vijaykumar Vyshak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naman Dhir
+    - 8.7:
+        non_striker: Naman Dhir
+        bowler: Vijaykumar Vyshak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 9.1:
+        non_striker: Naman Dhir
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Q de Kock
+    - 9.2:
+        non_striker: Naman Dhir
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 9.3:
+        non_striker: Naman Dhir
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Q de Kock
+    - 9.4:
+        non_striker: Naman Dhir
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 9.5:
+        non_striker: Q de Kock
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naman Dhir
+    - 9.6:
+        non_striker: Naman Dhir
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 10.1:
+        non_striker: Naman Dhir
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 10.2:
+        non_striker: Naman Dhir
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 10.3:
+        non_striker: Naman Dhir
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Q de Kock
+    - 10.4:
+        non_striker: Naman Dhir
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 10.5:
+        non_striker: Q de Kock
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naman Dhir
+    - 10.6:
+        non_striker: Naman Dhir
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 11.1:
+        non_striker: Naman Dhir
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 11.2:
+        non_striker: Naman Dhir
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Q de Kock
+    - 11.3:
+        non_striker: Naman Dhir
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 11.4:
+        non_striker: Q de Kock
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Naman Dhir
+    - 11.5:
+        non_striker: Q de Kock
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naman Dhir
+    - 11.6:
+        non_striker: Naman Dhir
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 12.1:
+        non_striker: Naman Dhir
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 12.2:
+        non_striker: Q de Kock
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naman Dhir
+    - 12.3:
+        non_striker: Naman Dhir
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 12.4:
+        non_striker: Q de Kock
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naman Dhir
+    - 12.5:
+        non_striker: Naman Dhir
+        bowler: M Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Q de Kock
+    - 12.6:
+        non_striker: Naman Dhir
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 12.7:
+        non_striker: Q de Kock
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naman Dhir
+    - 13.1:
+        non_striker: Q de Kock
+        bowler: Shashank Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naman Dhir
+    - 13.2:
+        non_striker: Naman Dhir
+        bowler: Shashank Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 13.3:
+        non_striker: Q de Kock
+        bowler: Shashank Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naman Dhir
+    - 13.4:
+        non_striker: Q de Kock
+        bowler: Shashank Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naman Dhir
+        wicket:
+          player_out: Naman Dhir
+          fielders:
+          - XC Bartlett
+          kind: caught
+    - 13.5:
+        non_striker: Q de Kock
+        bowler: Shashank Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 13.6:
+        non_striker: HH Pandya
+        bowler: Shashank Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 14.1:
+        non_striker: HH Pandya
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 14.2:
+        non_striker: HH Pandya
+        bowler: Arshdeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Q de Kock
+    - 14.3:
+        non_striker: HH Pandya
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 14.4:
+        non_striker: Q de Kock
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 14.5:
+        non_striker: HH Pandya
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 14.6:
+        non_striker: HH Pandya
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 14.7:
+        non_striker: Q de Kock
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 15.1:
+        non_striker: Q de Kock
+        bowler: Shashank Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 15.2:
+        non_striker: Q de Kock
+        bowler: Shashank Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 15.3:
+        non_striker: HH Pandya
+        bowler: Shashank Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Q de Kock
+    - 15.4:
+        non_striker: HH Pandya
+        bowler: Shashank Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Q de Kock
+    - 15.5:
+        non_striker: HH Pandya
+        bowler: Shashank Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 15.6:
+        non_striker: Q de Kock
+        bowler: Shashank Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 16.1:
+        non_striker: Q de Kock
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 16.2:
+        non_striker: HH Pandya
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 16.3:
+        non_striker: Q de Kock
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 16.4:
+        non_striker: HH Pandya
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 16.5:
+        non_striker: Q de Kock
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 16.6:
+        non_striker: HH Pandya
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 17.1:
+        non_striker: Q de Kock
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HH Pandya
+    - 17.2:
+        non_striker: Q de Kock
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 17.3:
+        non_striker: Q de Kock
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+        wicket:
+          player_out: HH Pandya
+          fielders:
+          - XC Bartlett
+          kind: caught
+    - 17.4:
+        non_striker: Q de Kock
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 17.5:
+        non_striker: Q de Kock
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 17.6:
+        non_striker: SE Rutherford
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 18.1:
+        non_striker: SE Rutherford
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 18.2:
+        non_striker: SE Rutherford
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 18.3:
+        non_striker: Q de Kock
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 18.4:
+        non_striker: Q de Kock
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 18.5:
+        non_striker: Q de Kock
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+        wicket:
+          player_out: SE Rutherford
+          kind: bowled
+    - 18.6:
+        non_striker: Q de Kock
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tilak Varma
+    - 19.1:
+        non_striker: Tilak Varma
+        bowler: Vijaykumar Vyshak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 19.2:
+        non_striker: Tilak Varma
+        bowler: Vijaykumar Vyshak
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Q de Kock
+    - 19.3:
+        non_striker: Tilak Varma
+        bowler: Vijaykumar Vyshak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 19.4:
+        non_striker: Q de Kock
+        bowler: Vijaykumar Vyshak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tilak Varma
+    - 19.5:
+        non_striker: Q de Kock
+        bowler: Vijaykumar Vyshak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+        wicket:
+          player_out: Tilak Varma
+          fielders:
+          - Vijaykumar Vyshak
+          kind: run out
+    - 19.6:
+        non_striker: Mayank Rawat
+        bowler: Vijaykumar Vyshak
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Q de Kock
+- 2nd innings:
+    team: Punjab Kings
+    deliveries:
+    - 0.1:
+        non_striker: P Simran Singh
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        replacements:
+          match:
+          - in: AM Ghazanfar
+            out: SA Yadav
+            team: Mumbai Indians
+            reason: impact_player
+        batsman: Priyansh Arya
+    - 0.2:
+        non_striker: Priyansh Arya
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Simran Singh
+    - 0.3:
+        non_striker: Priyansh Arya
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Simran Singh
+    - 0.4:
+        non_striker: Priyansh Arya
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 0.5:
+        non_striker: P Simran Singh
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Priyansh Arya
+    - 0.6:
+        non_striker: P Simran Singh
+        bowler: DL Chahar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Priyansh Arya
+    - 0.7:
+        non_striker: P Simran Singh
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Priyansh Arya
+    - 1.1:
+        non_striker: Priyansh Arya
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 1.2:
+        non_striker: P Simran Singh
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Priyansh Arya
+    - 1.3:
+        non_striker: P Simran Singh
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyansh Arya
+    - 1.4:
+        non_striker: P Simran Singh
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyansh Arya
+    - 1.5:
+        non_striker: P Simran Singh
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyansh Arya
+    - 1.6:
+        non_striker: P Simran Singh
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyansh Arya
+    - 2.1:
+        non_striker: Priyansh Arya
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 2.2:
+        non_striker: P Simran Singh
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyansh Arya
+        wicket:
+          player_out: Priyansh Arya
+          fielders:
+          - DL Chahar
+          kind: caught
+    - 2.3:
+        non_striker: P Simran Singh
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Connolly
+    - 2.4:
+        non_striker: P Simran Singh
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Connolly
+    - 2.5:
+        non_striker: P Simran Singh
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Connolly
+    - 2.6:
+        non_striker: P Simran Singh
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Connolly
+    - 3.1:
+        non_striker: C Connolly
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 3.2:
+        non_striker: P Simran Singh
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Connolly
+    - 3.3:
+        non_striker: P Simran Singh
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Connolly
+    - 3.4:
+        non_striker: P Simran Singh
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Connolly
+    - 3.5:
+        non_striker: P Simran Singh
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Connolly
+    - 3.6:
+        non_striker: P Simran Singh
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Connolly
+    - 4.1:
+        non_striker: P Simran Singh
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Connolly
+    - 4.2:
+        non_striker: P Simran Singh
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Connolly
+    - 4.3:
+        non_striker: P Simran Singh
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Connolly
+        wicket:
+          player_out: C Connolly
+          fielders:
+          - Q de Kock
+          kind: caught
+    - 4.4:
+        non_striker: P Simran Singh
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SS Iyer
+    - 4.5:
+        non_striker: P Simran Singh
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SS Iyer
+    - 4.6:
+        non_striker: P Simran Singh
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 5.1:
+        non_striker: P Simran Singh
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 5.2:
+        non_striker: P Simran Singh
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SS Iyer
+    - 5.3:
+        non_striker: P Simran Singh
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 5.4:
+        non_striker: SS Iyer
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Simran Singh
+    - 5.5:
+        non_striker: SS Iyer
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Simran Singh
+    - 5.6:
+        non_striker: SS Iyer
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Simran Singh
+    - 6.1:
+        non_striker: P Simran Singh
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 6.2:
+        non_striker: SS Iyer
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Simran Singh
+    - 6.3:
+        non_striker: SS Iyer
+        bowler: SN Thakur
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Simran Singh
+    - 6.4:
+        non_striker: SS Iyer
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 6.5:
+        non_striker: P Simran Singh
+        bowler: SN Thakur
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SS Iyer
+    - 6.6:
+        non_striker: P Simran Singh
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 6.7:
+        non_striker: SS Iyer
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 6.8:
+        non_striker: P Simran Singh
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 7.1:
+        non_striker: SS Iyer
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Simran Singh
+    - 7.2:
+        non_striker: SS Iyer
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Simran Singh
+    - 7.3:
+        non_striker: SS Iyer
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Simran Singh
+    - 7.4:
+        non_striker: SS Iyer
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 7.5:
+        non_striker: P Simran Singh
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 7.6:
+        non_striker: P Simran Singh
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 8.1:
+        non_striker: P Simran Singh
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 8.2:
+        non_striker: P Simran Singh
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 8.3:
+        non_striker: SS Iyer
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 8.4:
+        non_striker: P Simran Singh
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 8.5:
+        non_striker: SS Iyer
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 8.6:
+        non_striker: P Simran Singh
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 9.1:
+        non_striker: P Simran Singh
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 9.2:
+        non_striker: SS Iyer
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Simran Singh
+    - 9.3:
+        non_striker: SS Iyer
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Simran Singh
+    - 9.4:
+        non_striker: SS Iyer
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 9.5:
+        non_striker: P Simran Singh
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SS Iyer
+    - 9.6:
+        non_striker: P Simran Singh
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 10.1:
+        non_striker: SS Iyer
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Simran Singh
+    - 10.2:
+        non_striker: SS Iyer
+        bowler: SN Thakur
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Simran Singh
+    - 10.3:
+        non_striker: SS Iyer
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Simran Singh
+    - 10.4:
+        non_striker: SS Iyer
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 10.5:
+        non_striker: P Simran Singh
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SS Iyer
+    - 10.6:
+        non_striker: P Simran Singh
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 10.7:
+        non_striker: SS Iyer
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 11.1:
+        non_striker: SS Iyer
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Simran Singh
+    - 11.2:
+        non_striker: SS Iyer
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 11.3:
+        non_striker: P Simran Singh
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SS Iyer
+    - 11.4:
+        non_striker: P Simran Singh
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 11.5:
+        non_striker: SS Iyer
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 11.6:
+        non_striker: P Simran Singh
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 12.1:
+        non_striker: P Simran Singh
+        bowler: JJ Bumrah
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: SS Iyer
+    - 12.2:
+        non_striker: SS Iyer
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Simran Singh
+    - 12.3:
+        non_striker: SS Iyer
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Simran Singh
+    - 12.4:
+        non_striker: SS Iyer
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 12.5:
+        non_striker: P Simran Singh
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SS Iyer
+    - 12.6:
+        non_striker: P Simran Singh
+        bowler: JJ Bumrah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SS Iyer
+    - 12.7:
+        non_striker: P Simran Singh
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 12.8:
+        non_striker: SS Iyer
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 13.1:
+        non_striker: SS Iyer
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Simran Singh
+    - 13.2:
+        non_striker: SS Iyer
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Simran Singh
+    - 13.3:
+        non_striker: SS Iyer
+        bowler: HH Pandya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Simran Singh
+    - 13.4:
+        non_striker: SS Iyer
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 13.5:
+        non_striker: P Simran Singh
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 13.6:
+        non_striker: SS Iyer
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 13.7:
+        non_striker: P Simran Singh
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 14.1:
+        non_striker: P Simran Singh
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SS Iyer
+    - 14.2:
+        non_striker: P Simran Singh
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 14.3:
+        non_striker: SS Iyer
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 14.4:
+        non_striker: P Simran Singh
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SS Iyer
+    - 14.5:
+        non_striker: P Simran Singh
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 14.6:
+        non_striker: SS Iyer
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Simran Singh
+    - 15.1:
+        non_striker: P Simran Singh
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SS Iyer
+    - 15.2:
+        non_striker: P Simran Singh
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SS Iyer
+    - 15.3:
+        non_striker: P Simran Singh
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+        wicket:
+          player_out: SS Iyer
+          fielders:
+          - Naman Dhir
+          kind: caught
+    - 15.4:
+        non_striker: P Simran Singh
+        bowler: SN Thakur
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MP Stoinis
+    - 15.5:
+        non_striker: P Simran Singh
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 15.6:
+        non_striker: MP Stoinis
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 15.7:
+        non_striker: P Simran Singh
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 16.1:
+        non_striker: P Simran Singh
+        bowler: DL Chahar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MP Stoinis
+    - 16.2:
+        non_striker: P Simran Singh
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 16.3:
+        non_striker: P Simran Singh
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Stoinis
+    - 16.4:
+        non_striker: P Simran Singh
+        bowler: DL Chahar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MP Stoinis
+    - 16.5:
+        non_striker: P Simran Singh
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Stoinis
