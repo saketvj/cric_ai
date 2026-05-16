@@ -5,6 +5,7 @@ from openai import OpenAI
 from analytics.bowling import *
 from analytics.batting import *
 from ai.insights import generate_insight
+import streamlit as st
 
 
 fake_insight = """
@@ -14,7 +15,8 @@ with exceptional consistency.
 
 client = OpenAI(
     base_url="https://models.github.ai/inference",
-    api_key=os.environ["GITHUB_PAT"],
+    # api_key=os.environ["GITHUB_PAT"],
+    api_key = st.secrets["GITHUB_PAT"]
 )
 
 prompt = """
