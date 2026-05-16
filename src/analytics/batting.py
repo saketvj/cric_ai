@@ -22,9 +22,11 @@ def get_top_batsmen(
     min_balls=100
 ):
 
-    df = df[
-        df['match_date'].dt.year.isin(years)
-    ]
+    if years:
+        df = df[
+            df['match_date'].dt.year.isin(years)
+        ]
+  
 
     if phase:
         df = df[df['phase'] == phase]
@@ -51,7 +53,9 @@ def get_top_batsmen(
     )
 
 def get_best_strike_rate_batsmen(df, years, phase=None, top_n=10, min_balls=100):
-    df = df[df['match_date'].dt.year.isin(years)]
+    
+    if years:
+        df = df[df['match_date'].dt.year.isin(years)]
     if phase:
         df = df[df['phase'] == phase]
     df = (
@@ -68,7 +72,8 @@ def get_best_strike_rate_batsmen(df, years, phase=None, top_n=10, min_balls=100)
 
 
 def get_best_boundary_batsmen(df, years, phase=None, top_n=10, min_balls=100):
-    df = df[df['match_date'].dt.year.isin(years)]
+    if years:
+        df = df[df['match_date'].dt.year.isin(years)]
     if phase:
         df = df[df['phase'] == phase]
     df = (
@@ -85,7 +90,9 @@ def get_best_boundary_batsmen(df, years, phase=None, top_n=10, min_balls=100):
 
 
 def get_best_average_batsmen(df, years, phase=None, top_n=10, min_balls=100):
-    df = df[df['match_date'].dt.year.isin(years)]
+    
+    if years:
+        df = df[df['match_date'].dt.year.isin(years)]
     if phase:
         df = df[df['phase'] == phase]
     df = (
@@ -102,22 +109,3 @@ def get_best_average_batsmen(df, years, phase=None, top_n=10, min_balls=100):
     return df.sort_values('average', ascending=False).head(top_n)
 
 
-# at the bottom of bowling.py or in a separate test_features.py
-
-# years = [2025, 2023, 2024]
-
-# print("Top Batsmen:")
-# print(get_top_batsmen(deliveries, years))
-
-# print("\nBest Strike Rate:")
-# print(get_best_strike_rate_batsmen(deliveries, years))
-
-# print("\nBest Boundary %:")
-# print(get_best_boundary_batsmen(deliveries, years,'middle'))
-
-# print("\nBest Average:")
-# print(get_best_average_batsmen(deliveries, years,'powerplay'))
-
-# # test with phase filter
-# print("\nBest Strike Rate in Powerplay:")
-# print(get_best_strike_rate_batsmen(deliveries, years, phase='powerplay'))

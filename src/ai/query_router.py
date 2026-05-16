@@ -4,14 +4,18 @@ import re
 from openai import OpenAI
 from analytics.bowling import *
 from analytics.batting import *
-from insights import generate_insight
+from ai.insights import generate_insight
 
+
+fake_insight = """
+Virat Kohli dominated the last 3 IPL seasons
+with exceptional consistency.
+"""
 
 client = OpenAI(
     base_url="https://models.github.ai/inference",
     api_key=os.environ["GITHUB_PAT"],
 )
-
 
 prompt = """
 You are an Cricket analytics router.
@@ -30,12 +34,17 @@ Available phases:
 - powerplay
 - middle
 - death
-current year  = 2025
+For relative periods like:
+- last 1 year 
+- last 2 years
+- last 3 years
+calculate years relative to current year = 2025.
 Rules:
 - Extract years
 - Extract phase
 - Extract top_n if mentioned
 - If top_n not mentioned, use 10
+- if years not mentioned, use all years as empty list
 Return ONLY valid JSON.
 {
     "function_name": "get_top_bowlers",
@@ -44,33 +53,6 @@ Return ONLY valid JSON.
     "top_n": 5
 }
 """
-
-user_query = "top 5 boundary hitter in death overs in last 3 years in ipl"
-
-response = client.chat.completions.create(
-    messages=[
-        {
-            "role": "system",
-            "content": prompt,
-        },
-        {
-            "role": "user",
-            "content": user_query,
-        }
-    ],
-    model="openai/gpt-4o",
-    temperature=1,
-    max_tokens=4096,
-    top_p=1
-)
-
-raw = response.choices[0].message.content.strip()
-print(raw)
-
-# Extract JSON from anywhere in the response
-match = re.search(r'\{.*\}', raw, re.DOTALL)
-clean = match.group() if match else raw
-result = json.loads(clean)
 
 function_map = {
     "get_top_bowlers": get_top_bowlers,
@@ -83,10 +65,35 @@ function_map = {
     "get_best_average_batsmen": get_best_average_batsmen,
 }
 
-func = function_map[result['function_name']]
-df = func(deliveries, result['years'], result.get('phase'), result.get('top_n', 10))
-print(df)
+def run_query(user_query):                                   # ← indented block starts
+    response = client.chat.completions.create(
+        messages=[
+            {
+                "role": "system",
+                "content": prompt,
+            },
+            {
+                "role": "user",
+                "content": user_query,
+            }
+        ],
+        model="openai/gpt-4o",
+        temperature=1,
+        max_tokens=400,
+        top_p=1
+    )
+    raw = response.choices[0].message.content.strip()
+    print(raw)
+    match = re.search(r'\{.*\}', raw, re.DOTALL)
+    clean = match.group() if match else raw
+    result = json.loads(clean)
+    func = function_map[result['function_name']]
+    df = func(deliveries, result['years'], result.get('phase'), int(result.get('top_n', 10)))
+    return df                                                # ← function ends here
 
 
-insights = generate_insight(user_query,df)
-print(insights)
+if __name__ == "__main__":                                   # ← runs only directly
+    user_query = "top 5 boundary hitter in death overs in last 3 years in ipl"
+    df = run_query(user_query)
+    insight = generate_insight(user_query, df)
+    # print(insight)
