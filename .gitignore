@@ -11,8 +11,6 @@ venv/
 # Jupyter
 .ipynb_checkpoints/
 
-# Database
-data/db/*.db
 
 # OS Files
 .DS_Store
