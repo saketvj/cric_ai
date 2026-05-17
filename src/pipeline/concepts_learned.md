@@ -1,6 +1,0 @@
-- pandas merge joins tables
-- groupby aggregates data
-- transform keeps original row count
-- cumsum creates cumulative stats
-- SQLite stores tables
-- .dt works only on datetime
