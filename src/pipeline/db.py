@@ -5,6 +5,8 @@ from config.constants import DB_PATH
 
 def init_db():
 
+# Create folder if it doesn't exist
+    Path(DB_PATH).parent.mkdir(parents=True, exist_ok=True)
 
     conn = sqlite3.connect(DB_PATH)
     cursor = conn.cursor()

@@ -1,4 +1,14 @@
 import streamlit as st
+from pathlib import Path
+from config.constants import DB_PATH
+
+if not Path(DB_PATH).exists():
+    from pipeline.db import init_db
+    from pipeline.loader import load_dataset
+    from pipeline.load_features import load_deliveries
+    init_db()
+    load_dataset()
+    load_deliveries()  
 
 # This is the FIRST thing Streamlit reads
 # It configures the entire app globally

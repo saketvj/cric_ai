@@ -2,9 +2,11 @@ from config.constants import DB_PATH, RAW_DATA_PATH
 import numpy as np
 import sqlite3
 import pandas as pd
-from pipeline.load_features import deliveries 
+from pipeline.load_features import load_deliveries
 
+deliveries = load_deliveries()
 # print(deliveries.head())
+
 
 def get_top_bowlers(df, years, phase=None, top_n=10, min_overs=6):
     # top_n = int(top_n)
