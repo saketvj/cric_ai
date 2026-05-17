@@ -47,6 +47,9 @@ For relative periods like:
 - last 2 years
 - last 3 years
 calculate years relative to current year = 2025.
+-last 1 year => [2025]
+-last 2 years => [2024, 2025]
+-last 3 years => [2023, 2024, 2025]
 Rules:
 - Extract years
 - Extract phase
